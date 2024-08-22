@@ -1,0 +1,20 @@
+﻿@model IEnumerable<MotoGP.Models.Rider>
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@foreach (Rider rider in Model)
+{
+    <div>
+
+        @{
+            var imagePathRider = Url.Content($"~/images/riders/{rider.Number}.jpg");
+            var imagePathFlag = Url.Content($"~/images/flags/{rider.CountryID}.png");
+        }
+        <img src="@imagePathRider" alt="rider pic" />
+        <img src="@imagePathFlag" alt="flag pic" />
+        <h2 class="text-opacity-25">@rider.Number</h2>
+        <h5>@($"{rider.FirstName} {rider.LastName}")</h5>
+
+    </div>
+}

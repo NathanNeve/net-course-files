@@ -1,0 +1,39 @@
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\2 Dependency Injection\DI_Pattern - start\DI_Pattern_Best\bin\Debug\net7.0\config\di_configuration.xml
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\2 Dependency Injection\DI_Pattern - start\DI_Pattern_Best\bin\Debug\net7.0\DI_Pattern_Best.exe
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\2 Dependency Injection\DI_Pattern - start\DI_Pattern_Best\bin\Debug\net7.0\DI_Pattern_Best.deps.json
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\2 Dependency Injection\DI_Pattern - start\DI_Pattern_Best\bin\Debug\net7.0\DI_Pattern_Best.runtimeconfig.json
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\2 Dependency Injection\DI_Pattern - start\DI_Pattern_Best\bin\Debug\net7.0\DI_Pattern_Best.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\2 Dependency Injection\DI_Pattern - start\DI_Pattern_Best\bin\Debug\net7.0\DI_Pattern_Best.pdb
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\2 Dependency Injection\DI_Pattern - start\DI_Pattern_Best\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\2 Dependency Injection\DI_Pattern - start\DI_Pattern_Best\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\2 Dependency Injection\DI_Pattern - start\DI_Pattern_Best\obj\Debug\net7.0\DI_Pattern_Best.csproj.AssemblyReference.cache
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\2 Dependency Injection\DI_Pattern - start\DI_Pattern_Best\obj\Debug\net7.0\DI_Pattern_Best.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\2 Dependency Injection\DI_Pattern - start\DI_Pattern_Best\obj\Debug\net7.0\DI_Pattern_Best.AssemblyInfoInputs.cache
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\2 Dependency Injection\DI_Pattern - start\DI_Pattern_Best\obj\Debug\net7.0\DI_Pattern_Best.AssemblyInfo.cs
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\2 Dependency Injection\DI_Pattern - start\DI_Pattern_Best\obj\Debug\net7.0\DI_Pattern_Best.csproj.CoreCompileInputs.cache
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\2 Dependency Injection\DI_Pattern - start\DI_Pattern_Best\obj\Debug\net7.0\DI_Pattern_Best.csproj.CopyComplete
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\2 Dependency Injection\DI_Pattern - start\DI_Pattern_Best\obj\Debug\net7.0\DI_Pattern_Best.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\2 Dependency Injection\DI_Pattern - start\DI_Pattern_Best\obj\Debug\net7.0\refint\DI_Pattern_Best.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\2 Dependency Injection\DI_Pattern - start\DI_Pattern_Best\obj\Debug\net7.0\DI_Pattern_Best.pdb
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\2 Dependency Injection\DI_Pattern - start\DI_Pattern_Best\obj\Debug\net7.0\DI_Pattern_Best.genruntimeconfig.cache
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\2 Dependency Injection\DI_Pattern - start\DI_Pattern_Best\obj\Debug\net7.0\ref\DI_Pattern_Best.dll
+C:\_repos_\.NET-course-files\examenprep\www\DI_Pattern - start\DI_Pattern_Best\bin\Debug\net7.0\config\di_configuration.xml
+C:\_repos_\.NET-course-files\examenprep\www\DI_Pattern - start\DI_Pattern_Best\bin\Debug\net7.0\DI_Pattern_Best.exe
+C:\_repos_\.NET-course-files\examenprep\www\DI_Pattern - start\DI_Pattern_Best\bin\Debug\net7.0\DI_Pattern_Best.deps.json
+C:\_repos_\.NET-course-files\examenprep\www\DI_Pattern - start\DI_Pattern_Best\bin\Debug\net7.0\DI_Pattern_Best.runtimeconfig.json
+C:\_repos_\.NET-course-files\examenprep\www\DI_Pattern - start\DI_Pattern_Best\bin\Debug\net7.0\DI_Pattern_Best.dll
+C:\_repos_\.NET-course-files\examenprep\www\DI_Pattern - start\DI_Pattern_Best\bin\Debug\net7.0\DI_Pattern_Best.pdb
+C:\_repos_\.NET-course-files\examenprep\www\DI_Pattern - start\DI_Pattern_Best\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\_repos_\.NET-course-files\examenprep\www\DI_Pattern - start\DI_Pattern_Best\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\_repos_\.NET-course-files\examenprep\www\DI_Pattern - start\DI_Pattern_Best\obj\Debug\net7.0\DI_Pattern_Best.csproj.AssemblyReference.cache
+C:\_repos_\.NET-course-files\examenprep\www\DI_Pattern - start\DI_Pattern_Best\obj\Debug\net7.0\DI_Pattern_Best.GeneratedMSBuildEditorConfig.editorconfig
+C:\_repos_\.NET-course-files\examenprep\www\DI_Pattern - start\DI_Pattern_Best\obj\Debug\net7.0\DI_Pattern_Best.AssemblyInfoInputs.cache
+C:\_repos_\.NET-course-files\examenprep\www\DI_Pattern - start\DI_Pattern_Best\obj\Debug\net7.0\DI_Pattern_Best.AssemblyInfo.cs
+C:\_repos_\.NET-course-files\examenprep\www\DI_Pattern - start\DI_Pattern_Best\obj\Debug\net7.0\DI_Pattern_Best.csproj.CoreCompileInputs.cache
+C:\_repos_\.NET-course-files\examenprep\www\DI_Pattern - start\DI_Pattern_Best\obj\Debug\net7.0\DI_Pattern_Best.sourcelink.json
+C:\_repos_\.NET-course-files\examenprep\www\DI_Pattern - start\DI_Pattern_Best\obj\Debug\net7.0\DI_Patte.7896D32B.Up2Date
+C:\_repos_\.NET-course-files\examenprep\www\DI_Pattern - start\DI_Pattern_Best\obj\Debug\net7.0\DI_Pattern_Best.dll
+C:\_repos_\.NET-course-files\examenprep\www\DI_Pattern - start\DI_Pattern_Best\obj\Debug\net7.0\refint\DI_Pattern_Best.dll
+C:\_repos_\.NET-course-files\examenprep\www\DI_Pattern - start\DI_Pattern_Best\obj\Debug\net7.0\DI_Pattern_Best.pdb
+C:\_repos_\.NET-course-files\examenprep\www\DI_Pattern - start\DI_Pattern_Best\obj\Debug\net7.0\DI_Pattern_Best.genruntimeconfig.cache
+C:\_repos_\.NET-course-files\examenprep\www\DI_Pattern - start\DI_Pattern_Best\obj\Debug\net7.0\ref\DI_Pattern_Best.dll

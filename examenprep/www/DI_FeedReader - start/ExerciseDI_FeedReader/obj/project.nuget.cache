@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "c468SPQcG36jDpndBg9T6iXEIy26jG/hxDQrHLPRuOukAJToCHWS7JlKkgSbv4Gp1eQcIGhw1Fv6JUsBRTsSpA==",
+  "success": true,
+  "projectFilePath": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\DI_FeedReader - start\\ExerciseDI_FeedReader\\ExerciseDI_FeedReader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Natha\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.1\\microsoft.extensions.dependencyinjection.6.0.1.nupkg.sha512",
+    "C:\\Users\\Natha\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Natha\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

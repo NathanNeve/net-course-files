@@ -1,0 +1,29 @@
+C:\Data\.NET Development\WT\Design Patterns\Applications\DI_Pattern\DI_Pattern_Wrong\bin\Debug\net6.0\DI_Pattern_Wrong.exe
+C:\Data\.NET Development\WT\Design Patterns\Applications\DI_Pattern\DI_Pattern_Wrong\bin\Debug\net6.0\DI_Pattern_Wrong.deps.json
+C:\Data\.NET Development\WT\Design Patterns\Applications\DI_Pattern\DI_Pattern_Wrong\bin\Debug\net6.0\DI_Pattern_Wrong.runtimeconfig.json
+C:\Data\.NET Development\WT\Design Patterns\Applications\DI_Pattern\DI_Pattern_Wrong\bin\Debug\net6.0\DI_Pattern_Wrong.dll
+C:\Data\.NET Development\WT\Design Patterns\Applications\DI_Pattern\DI_Pattern_Wrong\bin\Debug\net6.0\DI_Pattern_Wrong.pdb
+C:\Data\.NET Development\WT\Design Patterns\Applications\DI_Pattern\DI_Pattern_Wrong\obj\Debug\net6.0\DI_Pattern_Wrong.csproj.AssemblyReference.cache
+C:\Data\.NET Development\WT\Design Patterns\Applications\DI_Pattern\DI_Pattern_Wrong\obj\Debug\net6.0\DI_Pattern_Wrong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\.NET Development\WT\Design Patterns\Applications\DI_Pattern\DI_Pattern_Wrong\obj\Debug\net6.0\DI_Pattern_Wrong.AssemblyInfoInputs.cache
+C:\Data\.NET Development\WT\Design Patterns\Applications\DI_Pattern\DI_Pattern_Wrong\obj\Debug\net6.0\DI_Pattern_Wrong.AssemblyInfo.cs
+C:\Data\.NET Development\WT\Design Patterns\Applications\DI_Pattern\DI_Pattern_Wrong\obj\Debug\net6.0\DI_Pattern_Wrong.csproj.CoreCompileInputs.cache
+C:\Data\.NET Development\WT\Design Patterns\Applications\DI_Pattern\DI_Pattern_Wrong\obj\Debug\net6.0\DI_Pattern_Wrong.dll
+C:\Data\.NET Development\WT\Design Patterns\Applications\DI_Pattern\DI_Pattern_Wrong\obj\Debug\net6.0\refint\DI_Pattern_Wrong.dll
+C:\Data\.NET Development\WT\Design Patterns\Applications\DI_Pattern\DI_Pattern_Wrong\obj\Debug\net6.0\DI_Pattern_Wrong.pdb
+C:\Data\.NET Development\WT\Design Patterns\Applications\DI_Pattern\DI_Pattern_Wrong\obj\Debug\net6.0\DI_Pattern_Wrong.genruntimeconfig.cache
+C:\Data\.NET Development\WT\Design Patterns\Applications\DI_Pattern\DI_Pattern_Wrong\obj\Debug\net6.0\ref\DI_Pattern_Wrong.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\2 Dependency Injection\DI_Pattern - start\DI_Pattern_Wrong\bin\Debug\net6.0\DI_Pattern_Wrong.exe
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\2 Dependency Injection\DI_Pattern - start\DI_Pattern_Wrong\bin\Debug\net6.0\DI_Pattern_Wrong.deps.json
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\2 Dependency Injection\DI_Pattern - start\DI_Pattern_Wrong\bin\Debug\net6.0\DI_Pattern_Wrong.runtimeconfig.json
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\2 Dependency Injection\DI_Pattern - start\DI_Pattern_Wrong\bin\Debug\net6.0\DI_Pattern_Wrong.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\2 Dependency Injection\DI_Pattern - start\DI_Pattern_Wrong\bin\Debug\net6.0\DI_Pattern_Wrong.pdb
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\2 Dependency Injection\DI_Pattern - start\DI_Pattern_Wrong\obj\Debug\net6.0\DI_Pattern_Wrong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\2 Dependency Injection\DI_Pattern - start\DI_Pattern_Wrong\obj\Debug\net6.0\DI_Pattern_Wrong.AssemblyInfoInputs.cache
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\2 Dependency Injection\DI_Pattern - start\DI_Pattern_Wrong\obj\Debug\net6.0\DI_Pattern_Wrong.AssemblyInfo.cs
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\2 Dependency Injection\DI_Pattern - start\DI_Pattern_Wrong\obj\Debug\net6.0\DI_Pattern_Wrong.csproj.CoreCompileInputs.cache
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\2 Dependency Injection\DI_Pattern - start\DI_Pattern_Wrong\obj\Debug\net6.0\DI_Pattern_Wrong.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\2 Dependency Injection\DI_Pattern - start\DI_Pattern_Wrong\obj\Debug\net6.0\refint\DI_Pattern_Wrong.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\2 Dependency Injection\DI_Pattern - start\DI_Pattern_Wrong\obj\Debug\net6.0\DI_Pattern_Wrong.pdb
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\2 Dependency Injection\DI_Pattern - start\DI_Pattern_Wrong\obj\Debug\net6.0\DI_Pattern_Wrong.genruntimeconfig.cache
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\2 Dependency Injection\DI_Pattern - start\DI_Pattern_Wrong\obj\Debug\net6.0\ref\DI_Pattern_Wrong.dll

@@ -1,0 +1,12 @@
+C:\_repos_\.NET-course-files\examenprep\www\Bank\Bank\bin\Debug\net7.0\Bank.deps.json
+C:\_repos_\.NET-course-files\examenprep\www\Bank\Bank\bin\Debug\net7.0\Bank.dll
+C:\_repos_\.NET-course-files\examenprep\www\Bank\Bank\bin\Debug\net7.0\Bank.pdb
+C:\_repos_\.NET-course-files\examenprep\www\Bank\Bank\obj\Debug\net7.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\_repos_\.NET-course-files\examenprep\www\Bank\Bank\obj\Debug\net7.0\Bank.AssemblyInfoInputs.cache
+C:\_repos_\.NET-course-files\examenprep\www\Bank\Bank\obj\Debug\net7.0\Bank.AssemblyInfo.cs
+C:\_repos_\.NET-course-files\examenprep\www\Bank\Bank\obj\Debug\net7.0\Bank.csproj.CoreCompileInputs.cache
+C:\_repos_\.NET-course-files\examenprep\www\Bank\Bank\obj\Debug\net7.0\Bank.sourcelink.json
+C:\_repos_\.NET-course-files\examenprep\www\Bank\Bank\obj\Debug\net7.0\Bank.dll
+C:\_repos_\.NET-course-files\examenprep\www\Bank\Bank\obj\Debug\net7.0\refint\Bank.dll
+C:\_repos_\.NET-course-files\examenprep\www\Bank\Bank\obj\Debug\net7.0\Bank.pdb
+C:\_repos_\.NET-course-files\examenprep\www\Bank\Bank\obj\Debug\net7.0\ref\Bank.dll

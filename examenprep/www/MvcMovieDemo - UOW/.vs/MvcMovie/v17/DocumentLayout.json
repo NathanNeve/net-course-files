@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\MvcMovieDemo - UOW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF55CE26-F837-49BB-BE86-5A425E8C9338}|MvcMovie\\MvcMovie.csproj|c:\\_repos_\\.net-course-files\\examenprep\\www\\mvcmoviedemo - uow\\mvcmovie\\dal\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF55CE26-F837-49BB-BE86-5A425E8C9338}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\dal\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF55CE26-F837-49BB-BE86-5A425E8C9338}|MvcMovie\\MvcMovie.csproj|c:\\_repos_\\.net-course-files\\examenprep\\www\\mvcmoviedemo - uow\\mvcmovie\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF55CE26-F837-49BB-BE86-5A425E8C9338}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF55CE26-F837-49BB-BE86-5A425E8C9338}|MvcMovie\\MvcMovie.csproj|c:\\_repos_\\.net-course-files\\examenprep\\www\\mvcmoviedemo - uow\\mvcmovie\\controllers\\ratingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF55CE26-F837-49BB-BE86-5A425E8C9338}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\controllers\\ratingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF55CE26-F837-49BB-BE86-5A425E8C9338}|MvcMovie\\MvcMovie.csproj|c:\\_repos_\\.net-course-files\\examenprep\\www\\mvcmoviedemo - uow\\mvcmovie\\dal\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF55CE26-F837-49BB-BE86-5A425E8C9338}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\dal\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF55CE26-F837-49BB-BE86-5A425E8C9338}|MvcMovie\\MvcMovie.csproj|c:\\_repos_\\.net-course-files\\examenprep\\www\\mvcmoviedemo - uow\\mvcmovie\\views\\movies\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF55CE26-F837-49BB-BE86-5A425E8C9338}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\views\\movies\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\MvcMovieDemo - UOW\\MvcMovie\\DAL\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "MvcMovie\\DAL\\IUnitOfWork.cs",
+              "ToolTip": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\MvcMovieDemo - UOW\\MvcMovie\\DAL\\IUnitOfWork.cs",
+              "RelativeToolTip": "MvcMovie\\DAL\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T08:37:13.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\MvcMovieDemo - UOW\\MvcMovie\\DAL\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "MvcMovie\\DAL\\UnitOfWork.cs",
+              "ToolTip": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\MvcMovieDemo - UOW\\MvcMovie\\DAL\\UnitOfWork.cs",
+              "RelativeToolTip": "MvcMovie\\DAL\\UnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T09:05:01.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\MvcMovieDemo - UOW\\MvcMovie\\Views\\Movies\\Add.cshtml",
+              "RelativeDocumentMoniker": "MvcMovie\\Views\\Movies\\Add.cshtml",
+              "ToolTip": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\MvcMovieDemo - UOW\\MvcMovie\\Views\\Movies\\Add.cshtml",
+              "RelativeToolTip": "MvcMovie\\Views\\Movies\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T08:54:05.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RatingsController.cs",
+              "DocumentMoniker": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\MvcMovieDemo - UOW\\MvcMovie\\Controllers\\RatingsController.cs",
+              "RelativeDocumentMoniker": "MvcMovie\\Controllers\\RatingsController.cs",
+              "ToolTip": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\MvcMovieDemo - UOW\\MvcMovie\\Controllers\\RatingsController.cs",
+              "RelativeToolTip": "MvcMovie\\Controllers\\RatingsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T08:52:51.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\MvcMovieDemo - UOW\\MvcMovie\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "MvcMovie\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\MvcMovieDemo - UOW\\MvcMovie\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "MvcMovie\\Controllers\\MoviesController.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAmwFcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T08:51:32.428Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

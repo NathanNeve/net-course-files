@@ -1,0 +1,50 @@
+﻿@model IEnumerable<Adventures.Domain.Models.Country>
+
+@{
+
+}
+@using Adventures.Web.Helpers
+
+<h1>Travel Information</h1>
+<hr />
+
+
+@foreach (var item in Model)
+{
+    <h2>@item.Name</h2>
+    @foreach (var trip in item.Trips)
+    {
+        <p class="fw-bold">
+            <span>
+                @{
+                    var total = 0;
+                    foreach (var book in item.Trips)
+                    {
+                        total += 1;
+                    }
+                }
+                @{
+                    var tripID = trip.TripId;
+                }
+
+                <a asp-action="Create" asp-route-id="@tripID">
+                    @Html.DisplayFor(modelItem => trip.Title)
+                </a>
+             (
+            @Html.DisplayForModel(total);
+             bookings)
+            </span>
+        </p>
+        <p>@Html.DisplayFor(modelItem => trip.Description)</p>
+        <br />
+
+        <p>Participants:
+@*             @foreach (var booking in item.Trips)
+            {
+                @Html.DisplayFor(booking.Bookings)
+            } *@
+
+        </p>
+
+    }
+}

@@ -1,0 +1,15 @@
+C:\_repos_\.NET-course-files\examenprep\www\DI_Pattern - start\DI_Pattern_Good\bin\Debug\net7.0\DI_Pattern_Good.exe
+C:\_repos_\.NET-course-files\examenprep\www\DI_Pattern - start\DI_Pattern_Good\bin\Debug\net7.0\DI_Pattern_Good.deps.json
+C:\_repos_\.NET-course-files\examenprep\www\DI_Pattern - start\DI_Pattern_Good\bin\Debug\net7.0\DI_Pattern_Good.runtimeconfig.json
+C:\_repos_\.NET-course-files\examenprep\www\DI_Pattern - start\DI_Pattern_Good\bin\Debug\net7.0\DI_Pattern_Good.dll
+C:\_repos_\.NET-course-files\examenprep\www\DI_Pattern - start\DI_Pattern_Good\bin\Debug\net7.0\DI_Pattern_Good.pdb
+C:\_repos_\.NET-course-files\examenprep\www\DI_Pattern - start\DI_Pattern_Good\obj\Debug\net7.0\DI_Pattern_Good.GeneratedMSBuildEditorConfig.editorconfig
+C:\_repos_\.NET-course-files\examenprep\www\DI_Pattern - start\DI_Pattern_Good\obj\Debug\net7.0\DI_Pattern_Good.AssemblyInfoInputs.cache
+C:\_repos_\.NET-course-files\examenprep\www\DI_Pattern - start\DI_Pattern_Good\obj\Debug\net7.0\DI_Pattern_Good.AssemblyInfo.cs
+C:\_repos_\.NET-course-files\examenprep\www\DI_Pattern - start\DI_Pattern_Good\obj\Debug\net7.0\DI_Pattern_Good.csproj.CoreCompileInputs.cache
+C:\_repos_\.NET-course-files\examenprep\www\DI_Pattern - start\DI_Pattern_Good\obj\Debug\net7.0\DI_Pattern_Good.sourcelink.json
+C:\_repos_\.NET-course-files\examenprep\www\DI_Pattern - start\DI_Pattern_Good\obj\Debug\net7.0\DI_Pattern_Good.dll
+C:\_repos_\.NET-course-files\examenprep\www\DI_Pattern - start\DI_Pattern_Good\obj\Debug\net7.0\refint\DI_Pattern_Good.dll
+C:\_repos_\.NET-course-files\examenprep\www\DI_Pattern - start\DI_Pattern_Good\obj\Debug\net7.0\DI_Pattern_Good.pdb
+C:\_repos_\.NET-course-files\examenprep\www\DI_Pattern - start\DI_Pattern_Good\obj\Debug\net7.0\DI_Pattern_Good.genruntimeconfig.cache
+C:\_repos_\.NET-course-files\examenprep\www\DI_Pattern - start\DI_Pattern_Good\obj\Debug\net7.0\ref\DI_Pattern_Good.dll

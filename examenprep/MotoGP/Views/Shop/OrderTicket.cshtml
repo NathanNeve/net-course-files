@@ -1,0 +1,53 @@
+﻿@model MotoGP.Models.Ticket
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewData["Title"] = "Order Tickets";
+    var countries = (IEnumerable<SelectListItem>)ViewData["Countries"]!;
+    var races = (IEnumerable<SelectListItem>)ViewData["Races"]!;
+}
+
+<p>Please fill out following fields:</p>
+
+<form asp-action="Order">
+    
+    <label asp-for="Name">@Html.DisplayNameFor(model => model.Name)</label>
+    <input asp-for="Name"/>
+    <br />
+
+    <label asp-for="Email">@Html.DisplayNameFor(model => model.Email)</label>
+    <input asp-for="Email" />
+    <br />
+
+    <label asp-for="Address">@Html.DisplayNameFor(model => model.Address)</label>
+    <input asp-for="Address" />
+    <br />
+
+
+    @for (int i = 1; i <= 6; i++)
+    {
+        <label asp-for="Number">
+            <input type="radio" asp-for="Number" value="@i" />
+            @i
+        </label>
+    }
+    <br />
+
+
+    <label asp-for="CountryID">@Html.DisplayNameFor(model => model.Country)</label>
+    <select asp-for="CountryID" asp-items="countries"></select>
+    <br />
+
+
+    <label asp-for="RaceID">@Html.DisplayNameFor(model => model.Race)</label>
+    <br />
+    @foreach (var race in races)
+    {
+        <input type="radio" asp-for="RaceID" value="@race.Value" />
+        @race.Text
+        <br />
+    }
+    <br />
+
+    <input type="submit" value="Order"/>
+</form>

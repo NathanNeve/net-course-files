@@ -1,0 +1,14 @@
+C:\Users\Natha\source\repos\FietsAppHerstel\bin\Debug\net7.0\FietsAppHerstel.exe
+C:\Users\Natha\source\repos\FietsAppHerstel\bin\Debug\net7.0\FietsAppHerstel.deps.json
+C:\Users\Natha\source\repos\FietsAppHerstel\bin\Debug\net7.0\FietsAppHerstel.runtimeconfig.json
+C:\Users\Natha\source\repos\FietsAppHerstel\bin\Debug\net7.0\FietsAppHerstel.dll
+C:\Users\Natha\source\repos\FietsAppHerstel\bin\Debug\net7.0\FietsAppHerstel.pdb
+C:\Users\Natha\source\repos\FietsAppHerstel\obj\Debug\net7.0\FietsAppHerstel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natha\source\repos\FietsAppHerstel\obj\Debug\net7.0\FietsAppHerstel.AssemblyInfoInputs.cache
+C:\Users\Natha\source\repos\FietsAppHerstel\obj\Debug\net7.0\FietsAppHerstel.AssemblyInfo.cs
+C:\Users\Natha\source\repos\FietsAppHerstel\obj\Debug\net7.0\FietsAppHerstel.csproj.CoreCompileInputs.cache
+C:\Users\Natha\source\repos\FietsAppHerstel\obj\Debug\net7.0\FietsAppHerstel.dll
+C:\Users\Natha\source\repos\FietsAppHerstel\obj\Debug\net7.0\refint\FietsAppHerstel.dll
+C:\Users\Natha\source\repos\FietsAppHerstel\obj\Debug\net7.0\FietsAppHerstel.pdb
+C:\Users\Natha\source\repos\FietsAppHerstel\obj\Debug\net7.0\FietsAppHerstel.genruntimeconfig.cache
+C:\Users\Natha\source\repos\FietsAppHerstel\obj\Debug\net7.0\ref\FietsAppHerstel.dll

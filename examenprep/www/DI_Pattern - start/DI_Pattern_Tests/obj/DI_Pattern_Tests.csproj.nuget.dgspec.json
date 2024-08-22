@@ -1,0 +1,286 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\_repos_\\.NET-course-files\\examenprep\\www\\DI_Pattern - start\\DI_Pattern_Tests\\DI_Pattern_Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\_repos_\\.NET-course-files\\examenprep\\www\\DI_Pattern - start\\DI_Pattern_Better\\DI_Pattern_Better.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\DI_Pattern - start\\DI_Pattern_Better\\DI_Pattern_Better.csproj",
+        "projectName": "DI_Pattern_Better",
+        "projectPath": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\DI_Pattern - start\\DI_Pattern_Better\\DI_Pattern_Better.csproj",
+        "packagesPath": "C:\\Users\\Natha\\.nuget\\packages\\",
+        "outputPath": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\DI_Pattern - start\\DI_Pattern_Better\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Natha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\_repos_\\.NET-course-files\\examenprep\\www\\DI_Pattern - start\\DI_Pattern_Good\\DI_Pattern_Good.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\DI_Pattern - start\\DI_Pattern_Good\\DI_Pattern_Good.csproj",
+        "projectName": "DI_Pattern_Good",
+        "projectPath": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\DI_Pattern - start\\DI_Pattern_Good\\DI_Pattern_Good.csproj",
+        "packagesPath": "C:\\Users\\Natha\\.nuget\\packages\\",
+        "outputPath": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\DI_Pattern - start\\DI_Pattern_Good\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Natha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\_repos_\\.NET-course-files\\examenprep\\www\\DI_Pattern - start\\DI_Pattern_Tests\\DI_Pattern_Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\DI_Pattern - start\\DI_Pattern_Tests\\DI_Pattern_Tests.csproj",
+        "projectName": "DI_Pattern_Tests",
+        "projectPath": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\DI_Pattern - start\\DI_Pattern_Tests\\DI_Pattern_Tests.csproj",
+        "packagesPath": "C:\\Users\\Natha\\.nuget\\packages\\",
+        "outputPath": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\DI_Pattern - start\\DI_Pattern_Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Natha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\_repos_\\.NET-course-files\\examenprep\\www\\DI_Pattern - start\\DI_Pattern_Better\\DI_Pattern_Better.csproj": {
+                "projectPath": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\DI_Pattern - start\\DI_Pattern_Better\\DI_Pattern_Better.csproj"
+              },
+              "C:\\_repos_\\.NET-course-files\\examenprep\\www\\DI_Pattern - start\\DI_Pattern_Good\\DI_Pattern_Good.csproj": {
+                "projectPath": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\DI_Pattern - start\\DI_Pattern_Good\\DI_Pattern_Good.csproj"
+              },
+              "C:\\_repos_\\.NET-course-files\\examenprep\\www\\DI_Pattern - start\\DI_Pattern_Wrong\\DI_Pattern_Wrong.csproj": {
+                "projectPath": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\DI_Pattern - start\\DI_Pattern_Wrong\\DI_Pattern_Wrong.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.8, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.8, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.70, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\_repos_\\.NET-course-files\\examenprep\\www\\DI_Pattern - start\\DI_Pattern_Wrong\\DI_Pattern_Wrong.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\DI_Pattern - start\\DI_Pattern_Wrong\\DI_Pattern_Wrong.csproj",
+        "projectName": "DI_Pattern_Wrong",
+        "projectPath": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\DI_Pattern - start\\DI_Pattern_Wrong\\DI_Pattern_Wrong.csproj",
+        "packagesPath": "C:\\Users\\Natha\\.nuget\\packages\\",
+        "outputPath": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\DI_Pattern - start\\DI_Pattern_Wrong\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Natha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

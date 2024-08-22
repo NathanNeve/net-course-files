@@ -1,0 +1,12 @@
+C:\_repos_\.NET-course-files\examenprep\www\StringCalculatorKata\StringCalculatorKata\bin\Debug\net7.0\StringCalculatorKata.deps.json
+C:\_repos_\.NET-course-files\examenprep\www\StringCalculatorKata\StringCalculatorKata\bin\Debug\net7.0\StringCalculatorKata.dll
+C:\_repos_\.NET-course-files\examenprep\www\StringCalculatorKata\StringCalculatorKata\bin\Debug\net7.0\StringCalculatorKata.pdb
+C:\_repos_\.NET-course-files\examenprep\www\StringCalculatorKata\StringCalculatorKata\obj\Debug\net7.0\StringCalculatorKata.GeneratedMSBuildEditorConfig.editorconfig
+C:\_repos_\.NET-course-files\examenprep\www\StringCalculatorKata\StringCalculatorKata\obj\Debug\net7.0\StringCalculatorKata.AssemblyInfoInputs.cache
+C:\_repos_\.NET-course-files\examenprep\www\StringCalculatorKata\StringCalculatorKata\obj\Debug\net7.0\StringCalculatorKata.AssemblyInfo.cs
+C:\_repos_\.NET-course-files\examenprep\www\StringCalculatorKata\StringCalculatorKata\obj\Debug\net7.0\StringCalculatorKata.csproj.CoreCompileInputs.cache
+C:\_repos_\.NET-course-files\examenprep\www\StringCalculatorKata\StringCalculatorKata\obj\Debug\net7.0\StringCalculatorKata.sourcelink.json
+C:\_repos_\.NET-course-files\examenprep\www\StringCalculatorKata\StringCalculatorKata\obj\Debug\net7.0\StringCalculatorKata.dll
+C:\_repos_\.NET-course-files\examenprep\www\StringCalculatorKata\StringCalculatorKata\obj\Debug\net7.0\refint\StringCalculatorKata.dll
+C:\_repos_\.NET-course-files\examenprep\www\StringCalculatorKata\StringCalculatorKata\obj\Debug\net7.0\StringCalculatorKata.pdb
+C:\_repos_\.NET-course-files\examenprep\www\StringCalculatorKata\StringCalculatorKata\obj\Debug\net7.0\ref\StringCalculatorKata.dll

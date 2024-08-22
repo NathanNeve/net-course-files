@@ -1,0 +1,17 @@
+﻿@model IEnumerable<MotoGP.Models.Race>
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+    ViewData["Title"] = "Build Map";
+}
+<img src="~/images/banners/map.png" alt="map" usemap="#workmap"/>
+
+<map name="workmap">
+    @foreach (Race race in Model)
+    {
+        <a asp-controller="Info" asp-action="ShowRace" asp-route-id="1">
+            <area class="circle" shape="circle" coords="@race.X,@race.Y,30">
+        </a>
+    }
+</map>

@@ -1,0 +1,21 @@
+﻿@model MusicStore.Models.ViewModels.ListAlbumsViewModel
+
+@{
+    ViewData["Title"] = "List Albums";
+}
+
+<h1>Albums</h1>
+<h2>Genre @Model.genre.Name</h2>
+
+<ul class="row list-unstyled" id="album-list">
+    @foreach (var album in Model.Albums)
+    {
+        <li class="col-lg-2 col-md-2 col-sm-2 col-xs-4 container">
+            <a asp-controller="Store" asp-action="Details" asp-route-id="@album.AlbumID">
+                <img alt="@album.Title" src="~/content/@album.AlbumArtUrl" width="100" />
+                <br />&nbsp;<br />
+                <div id="title">@album.Title</div>
+            </a>
+        </li>
+    }
+</ul>

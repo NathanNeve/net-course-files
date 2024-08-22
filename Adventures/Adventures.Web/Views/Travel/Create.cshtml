@@ -1,0 +1,20 @@
+﻿@model Adventures.Domain.Models.ViewModels.CreateBookingViewModel
+
+@{
+
+}
+
+<h1>Booking for @Model.TripName</h1>
+<hr />
+
+<form asp-action="Create" method="post">
+
+    <label asp-for="TravellerID">Traveller</label>
+    <br />
+@*     <select asp-for="TravellerID" asp-items="Model.Travellers">
+ *@        <option value="0">-- Select a rating --</option>
+    </select>
+
+    <input type="submit" name="Create" value="Create" />
+
+</form>

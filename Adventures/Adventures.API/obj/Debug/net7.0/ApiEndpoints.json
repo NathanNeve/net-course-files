@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "Adventures.API.Controllers.TravellersController",
+    "Method": "GetTravellersAsync",
+    "RelativePath": "api/Travellers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Adventures.Domain.Models.Traveller, Adventures.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

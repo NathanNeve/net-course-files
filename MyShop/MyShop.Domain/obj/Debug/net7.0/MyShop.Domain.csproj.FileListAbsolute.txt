@@ -1,0 +1,11 @@
+C:\_repos_\NET development\MyShop\MyShop.Domain\bin\Debug\net7.0\MyShop.Domain.deps.json
+C:\_repos_\NET development\MyShop\MyShop.Domain\bin\Debug\net7.0\MyShop.Domain.dll
+C:\_repos_\NET development\MyShop\MyShop.Domain\bin\Debug\net7.0\MyShop.Domain.pdb
+C:\_repos_\NET development\MyShop\MyShop.Domain\obj\Debug\net7.0\MyShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\_repos_\NET development\MyShop\MyShop.Domain\obj\Debug\net7.0\MyShop.Domain.AssemblyInfoInputs.cache
+C:\_repos_\NET development\MyShop\MyShop.Domain\obj\Debug\net7.0\MyShop.Domain.AssemblyInfo.cs
+C:\_repos_\NET development\MyShop\MyShop.Domain\obj\Debug\net7.0\MyShop.Domain.csproj.CoreCompileInputs.cache
+C:\_repos_\NET development\MyShop\MyShop.Domain\obj\Debug\net7.0\MyShop.Domain.dll
+C:\_repos_\NET development\MyShop\MyShop.Domain\obj\Debug\net7.0\refint\MyShop.Domain.dll
+C:\_repos_\NET development\MyShop\MyShop.Domain\obj\Debug\net7.0\MyShop.Domain.pdb
+C:\_repos_\NET development\MyShop\MyShop.Domain\obj\Debug\net7.0\ref\MyShop.Domain.dll

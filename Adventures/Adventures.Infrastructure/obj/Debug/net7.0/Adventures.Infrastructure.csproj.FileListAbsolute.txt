@@ -1,0 +1,51 @@
+C:\Data\.NET Development\WT 2023-2024\Examen\Adventures\Adventures.Infrastructure\bin\Debug\net7.0\Adventures.Infrastructure.deps.json
+C:\Data\.NET Development\WT 2023-2024\Examen\Adventures\Adventures.Infrastructure\bin\Debug\net7.0\Adventures.Infrastructure.dll
+C:\Data\.NET Development\WT 2023-2024\Examen\Adventures\Adventures.Infrastructure\bin\Debug\net7.0\Adventures.Infrastructure.pdb
+C:\Data\.NET Development\WT 2023-2024\Examen\Adventures\Adventures.Infrastructure\obj\Debug\net7.0\Adventures.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\.NET Development\WT 2023-2024\Examen\Adventures\Adventures.Infrastructure\obj\Debug\net7.0\Adventures.Infrastructure.AssemblyInfoInputs.cache
+C:\Data\.NET Development\WT 2023-2024\Examen\Adventures\Adventures.Infrastructure\obj\Debug\net7.0\Adventures.Infrastructure.AssemblyInfo.cs
+C:\Data\.NET Development\WT 2023-2024\Examen\Adventures\Adventures.Infrastructure\obj\Debug\net7.0\Adventures.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Data\.NET Development\WT 2023-2024\Examen\Adventures\Adventures.Infrastructure\obj\Debug\net7.0\Adventures.Infrastructure.dll
+C:\Data\.NET Development\WT 2023-2024\Examen\Adventures\Adventures.Infrastructure\obj\Debug\net7.0\refint\Adventures.Infrastructure.dll
+C:\Data\.NET Development\WT 2023-2024\Examen\Adventures\Adventures.Infrastructure\obj\Debug\net7.0\Adventures.Infrastructure.pdb
+C:\Data\.NET Development\WT 2023-2024\Examen\Adventures\Adventures.Infrastructure\obj\Debug\net7.0\ref\Adventures.Infrastructure.dll
+C:\Data\.NET Development\WT 2023-2024\Examen\Adventures\Adventures.Infrastructure\bin\Debug\net7.0\Adventures.Infrastructure.runtimeconfig.json
+C:\Data\.NET Development\WT 2023-2024\Examen\Adventures\Adventures.Infrastructure\bin\Debug\net7.0\Adventures.Domain.dll
+C:\Data\.NET Development\WT 2023-2024\Examen\Adventures\Adventures.Infrastructure\bin\Debug\net7.0\Adventures.Domain.pdb
+C:\Data\.NET Development\WT 2023-2024\Examen\Adventures\Adventures.Infrastructure\obj\Debug\net7.0\Adventures.Infrastructure.csproj.AssemblyReference.cache
+C:\Data\.NET Development\WT 2023-2024\Examen\Adventures\Adventures.Infrastructure\obj\Debug\net7.0\Adventures.Infrastructure.csproj.CopyComplete
+C:\Data\.NET Development\WT 2023-2024\Examen\Adventures\Adventures.Infrastructure\obj\Debug\net7.0\Adventures.Infrastructure.genruntimeconfig.cache
+C:\Users\michi\Downloads\Adventures\Adventures.Infrastructure\bin\Debug\net7.0\Adventures.Infrastructure.deps.json
+C:\Users\michi\Downloads\Adventures\Adventures.Infrastructure\bin\Debug\net7.0\Adventures.Infrastructure.runtimeconfig.json
+C:\Users\michi\Downloads\Adventures\Adventures.Infrastructure\bin\Debug\net7.0\Adventures.Infrastructure.dll
+C:\Users\michi\Downloads\Adventures\Adventures.Infrastructure\bin\Debug\net7.0\Adventures.Infrastructure.pdb
+C:\Users\michi\Downloads\Adventures\Adventures.Infrastructure\bin\Debug\net7.0\Adventures.Domain.dll
+C:\Users\michi\Downloads\Adventures\Adventures.Infrastructure\bin\Debug\net7.0\Adventures.Domain.pdb
+C:\Users\michi\Downloads\Adventures\Adventures.Infrastructure\obj\Debug\net7.0\Adventures.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\michi\Downloads\Adventures\Adventures.Infrastructure\obj\Debug\net7.0\Adventures.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\michi\Downloads\Adventures\Adventures.Infrastructure\obj\Debug\net7.0\Adventures.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\michi\Downloads\Adventures\Adventures.Infrastructure\obj\Debug\net7.0\Adventures.Infrastructure.AssemblyInfo.cs
+C:\Users\michi\Downloads\Adventures\Adventures.Infrastructure\obj\Debug\net7.0\Adventures.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\michi\Downloads\Adventures\Adventures.Infrastructure\obj\Debug\net7.0\Adventur.76A3A2E8.Up2Date
+C:\Users\michi\Downloads\Adventures\Adventures.Infrastructure\obj\Debug\net7.0\Adventures.Infrastructure.dll
+C:\Users\michi\Downloads\Adventures\Adventures.Infrastructure\obj\Debug\net7.0\refint\Adventures.Infrastructure.dll
+C:\Users\michi\Downloads\Adventures\Adventures.Infrastructure\obj\Debug\net7.0\Adventures.Infrastructure.pdb
+C:\Users\michi\Downloads\Adventures\Adventures.Infrastructure\obj\Debug\net7.0\Adventures.Infrastructure.genruntimeconfig.cache
+C:\Users\michi\Downloads\Adventures\Adventures.Infrastructure\obj\Debug\net7.0\ref\Adventures.Infrastructure.dll
+C:\Users\Natha\Desktop\Adventures\Adventures.Infrastructure\bin\Debug\net7.0\Adventures.Infrastructure.deps.json
+C:\Users\Natha\Desktop\Adventures\Adventures.Infrastructure\bin\Debug\net7.0\Adventures.Infrastructure.runtimeconfig.json
+C:\Users\Natha\Desktop\Adventures\Adventures.Infrastructure\bin\Debug\net7.0\Adventures.Infrastructure.dll
+C:\Users\Natha\Desktop\Adventures\Adventures.Infrastructure\bin\Debug\net7.0\Adventures.Infrastructure.pdb
+C:\Users\Natha\Desktop\Adventures\Adventures.Infrastructure\bin\Debug\net7.0\Adventures.Domain.dll
+C:\Users\Natha\Desktop\Adventures\Adventures.Infrastructure\bin\Debug\net7.0\Adventures.Domain.pdb
+C:\Users\Natha\Desktop\Adventures\Adventures.Infrastructure\obj\Debug\net7.0\Adventures.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Natha\Desktop\Adventures\Adventures.Infrastructure\obj\Debug\net7.0\Adventures.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natha\Desktop\Adventures\Adventures.Infrastructure\obj\Debug\net7.0\Adventures.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Natha\Desktop\Adventures\Adventures.Infrastructure\obj\Debug\net7.0\Adventures.Infrastructure.AssemblyInfo.cs
+C:\Users\Natha\Desktop\Adventures\Adventures.Infrastructure\obj\Debug\net7.0\Adventures.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Natha\Desktop\Adventures\Adventures.Infrastructure\obj\Debug\net7.0\Adventur.76A3A2E8.Up2Date
+C:\Users\Natha\Desktop\Adventures\Adventures.Infrastructure\obj\Debug\net7.0\Adventures.Infrastructure.dll
+C:\Users\Natha\Desktop\Adventures\Adventures.Infrastructure\obj\Debug\net7.0\refint\Adventures.Infrastructure.dll
+C:\Users\Natha\Desktop\Adventures\Adventures.Infrastructure\obj\Debug\net7.0\Adventures.Infrastructure.pdb
+C:\Users\Natha\Desktop\Adventures\Adventures.Infrastructure\obj\Debug\net7.0\Adventures.Infrastructure.genruntimeconfig.cache
+C:\Users\Natha\Desktop\Adventures\Adventures.Infrastructure\obj\Debug\net7.0\ref\Adventures.Infrastructure.dll

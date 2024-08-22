@@ -1,0 +1,359 @@
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\appsettings.json
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\MvcMovie.staticwebassets.runtime.json
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\MvcMovie.exe
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\MvcMovie.deps.json
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\MvcMovie.runtimeconfig.json
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\MvcMovie.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\MvcMovie.pdb
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\Humanizer.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\obj\Debug\net7.0\MvcMovie.csproj.AssemblyReference.cache
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\obj\Debug\net7.0\MvcMovie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\obj\Debug\net7.0\MvcMovie.AssemblyInfoInputs.cache
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\obj\Debug\net7.0\MvcMovie.AssemblyInfo.cs
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\obj\Debug\net7.0\MvcMovie.csproj.CoreCompileInputs.cache
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\obj\Debug\net7.0\MvcMovie.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\obj\Debug\net7.0\MvcMovie.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\obj\Debug\net7.0\MvcMovie.RazorAssemblyInfo.cache
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\obj\Debug\net7.0\MvcMovie.RazorAssemblyInfo.cs
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\obj\Debug\net7.0\staticwebassets\msbuild.MvcMovie.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\obj\Debug\net7.0\staticwebassets\msbuild.build.MvcMovie.props
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MvcMovie.props
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MvcMovie.props
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\obj\Debug\net7.0\scopedcss\bundle\MvcMovie.styles.css
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\obj\Debug\net7.0\scopedcss\projectbundle\MvcMovie.bundle.scp.css
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\obj\Debug\net7.0\MvcMovie.csproj.CopyComplete
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\obj\Debug\net7.0\MvcMovie.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\obj\Debug\net7.0\refint\MvcMovie.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\obj\Debug\net7.0\MvcMovie.pdb
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\obj\Debug\net7.0\MvcMovie.genruntimeconfig.cache
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\Repository Pattern\MvcMovie\MvcMovie\obj\Debug\net7.0\ref\MvcMovie.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\appsettings.json
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\MvcMovie.staticwebassets.runtime.json
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\MvcMovie.exe
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\MvcMovie.deps.json
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\MvcMovie.runtimeconfig.json
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\MvcMovie.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\MvcMovie.pdb
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\Humanizer.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\obj\Debug\net7.0\MvcMovie.csproj.AssemblyReference.cache
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\obj\Debug\net7.0\MvcMovie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\obj\Debug\net7.0\MvcMovie.AssemblyInfoInputs.cache
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\obj\Debug\net7.0\MvcMovie.AssemblyInfo.cs
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\obj\Debug\net7.0\MvcMovie.csproj.CoreCompileInputs.cache
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\obj\Debug\net7.0\MvcMovie.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\obj\Debug\net7.0\MvcMovie.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\obj\Debug\net7.0\MvcMovie.RazorAssemblyInfo.cache
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\obj\Debug\net7.0\MvcMovie.RazorAssemblyInfo.cs
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\obj\Debug\net7.0\staticwebassets\msbuild.MvcMovie.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\obj\Debug\net7.0\staticwebassets\msbuild.build.MvcMovie.props
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MvcMovie.props
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MvcMovie.props
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\obj\Debug\net7.0\scopedcss\bundle\MvcMovie.styles.css
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\obj\Debug\net7.0\scopedcss\projectbundle\MvcMovie.bundle.scp.css
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\obj\Debug\net7.0\MvcMovie.csproj.CopyComplete
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\obj\Debug\net7.0\MvcMovie.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\obj\Debug\net7.0\refint\MvcMovie.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\obj\Debug\net7.0\MvcMovie.pdb
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\obj\Debug\net7.0\MvcMovie.genruntimeconfig.cache
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie\MvcMovie\obj\Debug\net7.0\ref\MvcMovie.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie - start part 1\MvcMovie\obj\Debug\net7.0\MvcMovie.csproj.AssemblyReference.cache
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie - start part 1\MvcMovie\obj\Debug\net7.0\MvcMovie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie - start part 1\MvcMovie\obj\Debug\net7.0\MvcMovie.AssemblyInfoInputs.cache
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie - start part 1\MvcMovie\obj\Debug\net7.0\MvcMovie.AssemblyInfo.cs
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie - start part 1\MvcMovie\obj\Debug\net7.0\MvcMovie.csproj.CoreCompileInputs.cache
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie - start part 1\MvcMovie\obj\Debug\net7.0\MvcMovie.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie - start part 1\MvcMovie\obj\Debug\net7.0\MvcMovie.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie - start part 1\MvcMovie\obj\Debug\net7.0\MvcMovie.RazorAssemblyInfo.cache
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie - start part 1\MvcMovie\obj\Debug\net7.0\MvcMovie.RazorAssemblyInfo.cs
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie - start part 1\MvcMovie\obj\Debug\net7.0\staticwebassets\msbuild.MvcMovie.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie - start part 1\MvcMovie\obj\Debug\net7.0\staticwebassets\msbuild.build.MvcMovie.props
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie - start part 1\MvcMovie\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MvcMovie.props
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie - start part 1\MvcMovie\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MvcMovie.props
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie - start part 1\MvcMovie\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie - start part 1\MvcMovie\obj\Debug\net7.0\MvcMovie.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie - start part 1\MvcMovie\obj\Debug\net7.0\refint\MvcMovie.dll
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\3 Repository Pattern\MvcMovie - start part 1\MvcMovie\obj\Debug\net7.0\MvcMovie.pdb
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\obj\Debug\net7.0\MvcMovie.csproj.AssemblyReference.cache
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\obj\Debug\net7.0\MvcMovie.GeneratedMSBuildEditorConfig.editorconfig
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\obj\Debug\net7.0\MvcMovie.AssemblyInfoInputs.cache
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\obj\Debug\net7.0\MvcMovie.AssemblyInfo.cs
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\obj\Debug\net7.0\MvcMovie.csproj.CoreCompileInputs.cache
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\obj\Debug\net7.0\MvcMovie.MvcApplicationPartsAssemblyInfo.cs
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\obj\Debug\net7.0\MvcMovie.MvcApplicationPartsAssemblyInfo.cache
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\obj\Debug\net7.0\MvcMovie.RazorAssemblyInfo.cache
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\obj\Debug\net7.0\MvcMovie.RazorAssemblyInfo.cs
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\obj\Debug\net7.0\MvcMovie.sourcelink.json
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\bin\Debug\net7.0\appsettings.Development.json
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\bin\Debug\net7.0\appsettings.json
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\bin\Debug\net7.0\MvcMovie.staticwebassets.runtime.json
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\bin\Debug\net7.0\MvcMovie.exe
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\bin\Debug\net7.0\MvcMovie.deps.json
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\bin\Debug\net7.0\MvcMovie.runtimeconfig.json
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\bin\Debug\net7.0\MvcMovie.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\bin\Debug\net7.0\MvcMovie.pdb
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\bin\Debug\net7.0\Azure.Core.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\bin\Debug\net7.0\Azure.Identity.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\bin\Debug\net7.0\Humanizer.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\bin\Debug\net7.0\System.CodeDom.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\bin\Debug\net7.0\System.Memory.Data.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\obj\Debug\net7.0\staticwebassets.build.json
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\obj\Debug\net7.0\staticwebassets.development.json
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\obj\Debug\net7.0\staticwebassets\msbuild.MvcMovie.Microsoft.AspNetCore.StaticWebAssets.props
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\obj\Debug\net7.0\staticwebassets\msbuild.build.MvcMovie.props
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MvcMovie.props
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MvcMovie.props
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\obj\Debug\net7.0\staticwebassets.pack.json
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\obj\Debug\net7.0\scopedcss\bundle\MvcMovie.styles.css
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\obj\Debug\net7.0\scopedcss\projectbundle\MvcMovie.bundle.scp.css
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\obj\Debug\net7.0\MvcMovie.csproj.Up2Date
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\obj\Debug\net7.0\MvcMovie.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\obj\Debug\net7.0\refint\MvcMovie.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\obj\Debug\net7.0\MvcMovie.pdb
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\obj\Debug\net7.0\MvcMovie.genruntimeconfig.cache
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern\MvcMovie\obj\Debug\net7.0\ref\MvcMovie.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\obj\Debug\net7.0\MvcMovie.csproj.AssemblyReference.cache
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\obj\Debug\net7.0\MvcMovie.GeneratedMSBuildEditorConfig.editorconfig
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\obj\Debug\net7.0\MvcMovie.AssemblyInfoInputs.cache
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\obj\Debug\net7.0\MvcMovie.AssemblyInfo.cs
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\obj\Debug\net7.0\MvcMovie.csproj.CoreCompileInputs.cache
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\obj\Debug\net7.0\MvcMovie.MvcApplicationPartsAssemblyInfo.cs
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\obj\Debug\net7.0\MvcMovie.MvcApplicationPartsAssemblyInfo.cache
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\obj\Debug\net7.0\MvcMovie.RazorAssemblyInfo.cache
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\obj\Debug\net7.0\MvcMovie.RazorAssemblyInfo.cs
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\obj\Debug\net7.0\MvcMovie.sourcelink.json
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\obj\Debug\net7.0\MvcMovie.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\obj\Debug\net7.0\refint\MvcMovie.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\obj\Debug\net7.0\MvcMovie.pdb
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\bin\Debug\net7.0\appsettings.Development.json
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\bin\Debug\net7.0\appsettings.json
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\bin\Debug\net7.0\MvcMovie.staticwebassets.runtime.json
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\bin\Debug\net7.0\MvcMovie.exe
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\bin\Debug\net7.0\MvcMovie.deps.json
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\bin\Debug\net7.0\MvcMovie.runtimeconfig.json
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\bin\Debug\net7.0\MvcMovie.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\bin\Debug\net7.0\MvcMovie.pdb
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\bin\Debug\net7.0\Azure.Core.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\bin\Debug\net7.0\Azure.Identity.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\bin\Debug\net7.0\Humanizer.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\bin\Debug\net7.0\System.CodeDom.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\bin\Debug\net7.0\System.Memory.Data.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\obj\Debug\net7.0\staticwebassets.build.json
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\obj\Debug\net7.0\staticwebassets.development.json
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\obj\Debug\net7.0\staticwebassets\msbuild.MvcMovie.Microsoft.AspNetCore.StaticWebAssets.props
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\obj\Debug\net7.0\staticwebassets\msbuild.build.MvcMovie.props
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MvcMovie.props
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MvcMovie.props
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\obj\Debug\net7.0\staticwebassets.pack.json
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\obj\Debug\net7.0\scopedcss\bundle\MvcMovie.styles.css
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\obj\Debug\net7.0\scopedcss\projectbundle\MvcMovie.bundle.scp.css
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\obj\Debug\net7.0\MvcMovie.csproj.Up2Date
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\obj\Debug\net7.0\MvcMovie.genruntimeconfig.cache
+C:\_repos_\.NET-course-files\examenprep\www\MvcMovieDemo - Repository Pattern - Part2\MvcMovie\obj\Debug\net7.0\ref\MvcMovie.dll

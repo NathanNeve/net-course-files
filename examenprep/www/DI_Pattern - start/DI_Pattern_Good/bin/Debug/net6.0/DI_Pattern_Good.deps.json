@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DI_Pattern_Good/1.0.0": {
+        "runtime": {
+          "DI_Pattern_Good.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DI_Pattern_Good/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

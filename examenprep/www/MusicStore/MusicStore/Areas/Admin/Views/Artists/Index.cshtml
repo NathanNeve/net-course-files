@@ -1,0 +1,48 @@
+﻿@model IEnumerable<MusicStore.Models.Artist>
+
+@{
+    ViewData["Title"] = "Index";
+    char[] alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".ToCharArray();
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+<div>
+    <p>
+        @foreach (var letter in alphabet)
+        {
+            <span>
+                <a asp-action="Index" asp-controller="Artists" asp-route-letter="@letter">@letter</a> |
+            </span>
+        }
+    </p>
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.ArtistID">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.ArtistID">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.ArtistID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

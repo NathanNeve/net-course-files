@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\Bank\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFB37294-3AB9-4ED3-84D4-6E801AEB1E7B}|BankTest\\BankTest.csproj|c:\\_repos_\\.net-course-files\\examenprep\\www\\bank\\banktest\\accounttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFB37294-3AB9-4ED3-84D4-6E801AEB1E7B}|BankTest\\BankTest.csproj|solutionrelative:banktest\\accounttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1973E695-2D0E-4352-96E0-D729FE8CC5E0}|Bank\\Bank.csproj|c:\\_repos_\\.net-course-files\\examenprep\\www\\bank\\bank\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1973E695-2D0E-4352-96E0-D729FE8CC5E0}|Bank\\Bank.csproj|solutionrelative:bank\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\Bank\\Bank\\Account.cs",
+              "RelativeDocumentMoniker": "Bank\\Account.cs",
+              "ToolTip": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\Bank\\Bank\\Account.cs",
+              "RelativeToolTip": "Bank\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T12:38:22.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountTest.cs",
+              "DocumentMoniker": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\Bank\\BankTest\\AccountTest.cs",
+              "RelativeDocumentMoniker": "BankTest\\AccountTest.cs",
+              "ToolTip": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\Bank\\BankTest\\AccountTest.cs",
+              "RelativeToolTip": "BankTest\\AccountTest.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAuwEAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T12:10:11.317Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

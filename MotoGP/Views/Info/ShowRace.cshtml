@@ -1,0 +1,11 @@
+﻿@model MotoGP.Models.Race
+
+@{
+    var id = ViewData["id"];
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var imagePath = Url.Content($"~/images/races/{id}.jpg");
+}
+
+<h2>@Html.DisplayFor(model => model.Date) - @Html.DisplayFor(model => model.Country)</h2>
+<img src="@imagePath" alt="circuit" />
+ <p>@Html.DisplayFor(model => model.Description)</p>

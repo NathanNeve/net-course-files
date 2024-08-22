@@ -1,0 +1,29 @@
+﻿@model IEnumerable<MotoGP.Models.Race>
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewData["Title"] = "Races";
+    var sortedRaces = Model.OrderBy(race => race.Date);
+}
+
+@for (int i = 0; i < sortedRaces.Count(); i++)
+{
+    Race race = sortedRaces.ElementAt(i);
+    string month = race.Date.ToString("MMMM");
+
+    if (i == 0 || month != sortedRaces.ElementAt(i - 1).Date.ToString("MMMM"))
+    {
+        <h3 class="fw-bold">@month</h3>
+    }
+
+    <div>
+        @{var index = i + 1;}
+        <p>@race.Date.ToString("dd/MM/yyyy") <a asp-controller="Info" asp-action="ShowRace" asp-route-id="@index">@race.Name</a></p>
+    </div>
+}
+
+<div class="row">
+    <a asp-controller="Home" asp-action="Menu">back</a> |
+    <a asp-controller="Info" asp-action="BuildMap">Races on Map</a> |
+    <a asp-controller="Info" asp-action="SelectRace">One by one</a>
+</div>

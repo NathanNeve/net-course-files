@@ -1,0 +1,319 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Natha\\Desktop\\.NET-course-files\\Adventures\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE84FD87-92B7-486A-8DE5-26508C6545DD}|Adventures.Infrastructure\\Adventures.Infrastructure.csproj|C:\\Users\\Natha\\Desktop\\.NET-course-files\\Adventures\\adventures.infrastructure\\repositories\\travellerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE84FD87-92B7-486A-8DE5-26508C6545DD}|Adventures.Infrastructure\\Adventures.Infrastructure.csproj|solutionrelative:adventures.infrastructure\\repositories\\travellerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE84FD87-92B7-486A-8DE5-26508C6545DD}|Adventures.Infrastructure\\Adventures.Infrastructure.csproj|C:\\Users\\Natha\\Desktop\\.NET-course-files\\Adventures\\adventures.infrastructure\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE84FD87-92B7-486A-8DE5-26508C6545DD}|Adventures.Infrastructure\\Adventures.Infrastructure.csproj|solutionrelative:adventures.infrastructure\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE84FD87-92B7-486A-8DE5-26508C6545DD}|Adventures.Infrastructure\\Adventures.Infrastructure.csproj|C:\\Users\\Natha\\Desktop\\.NET-course-files\\Adventures\\adventures.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE84FD87-92B7-486A-8DE5-26508C6545DD}|Adventures.Infrastructure\\Adventures.Infrastructure.csproj|solutionrelative:adventures.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE84FD87-92B7-486A-8DE5-26508C6545DD}|Adventures.Infrastructure\\Adventures.Infrastructure.csproj|C:\\Users\\Natha\\Desktop\\.NET-course-files\\Adventures\\adventures.infrastructure\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE84FD87-92B7-486A-8DE5-26508C6545DD}|Adventures.Infrastructure\\Adventures.Infrastructure.csproj|solutionrelative:adventures.infrastructure\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE84FD87-92B7-486A-8DE5-26508C6545DD}|Adventures.Infrastructure\\Adventures.Infrastructure.csproj|C:\\Users\\Natha\\Desktop\\.NET-course-files\\Adventures\\adventures.infrastructure\\travelcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE84FD87-92B7-486A-8DE5-26508C6545DD}|Adventures.Infrastructure\\Adventures.Infrastructure.csproj|solutionrelative:adventures.infrastructure\\travelcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44203035-56DF-4A36-82B1-9C3462778A45}|Adventures.API\\Adventures.API.csproj|C:\\Users\\Natha\\Desktop\\.NET-course-files\\Adventures\\adventures.api\\controllers\\travellerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44203035-56DF-4A36-82B1-9C3462778A45}|Adventures.API\\Adventures.API.csproj|solutionrelative:adventures.api\\controllers\\travellerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0C2072-03F4-4282-88EB-C386BCABFDC0}|Adventures.Web\\Adventures.Web.csproj|c:\\users\\natha\\desktop\\.net-course-files\\adventures\\adventures.web\\controllers\\travelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F0C2072-03F4-4282-88EB-C386BCABFDC0}|Adventures.Web\\Adventures.Web.csproj|solutionrelative:adventures.web\\controllers\\travelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE84FD87-92B7-486A-8DE5-26508C6545DD}|Adventures.Infrastructure\\Adventures.Infrastructure.csproj|c:\\users\\natha\\desktop\\.net-course-files\\adventures\\adventures.infrastructure\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE84FD87-92B7-486A-8DE5-26508C6545DD}|Adventures.Infrastructure\\Adventures.Infrastructure.csproj|solutionrelative:adventures.infrastructure\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44203035-56DF-4A36-82B1-9C3462778A45}|Adventures.API\\Adventures.API.csproj|c:\\users\\natha\\desktop\\.net-course-files\\adventures\\adventures.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44203035-56DF-4A36-82B1-9C3462778A45}|Adventures.API\\Adventures.API.csproj|solutionrelative:adventures.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44203035-56DF-4A36-82B1-9C3462778A45}|Adventures.API\\Adventures.API.csproj|c:\\users\\natha\\desktop\\.net-course-files\\adventures\\adventures.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{44203035-56DF-4A36-82B1-9C3462778A45}|Adventures.API\\Adventures.API.csproj|solutionrelative:adventures.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09547C56-DE03-4056-ADE0-27E2AEFDD7DE}|Adventures.Tests\\Adventures.Tests.csproj|C:\\Users\\Natha\\Desktop\\.NET-course-files\\Adventures\\adventures.tests\\travelhelpertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09547C56-DE03-4056-ADE0-27E2AEFDD7DE}|Adventures.Tests\\Adventures.Tests.csproj|solutionrelative:adventures.tests\\travelhelpertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0C2072-03F4-4282-88EB-C386BCABFDC0}|Adventures.Web\\Adventures.Web.csproj|C:\\Users\\Natha\\Desktop\\.NET-course-files\\Adventures\\adventures.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F0C2072-03F4-4282-88EB-C386BCABFDC0}|Adventures.Web\\Adventures.Web.csproj|solutionrelative:adventures.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E459631-D45F-48CF-AF31-71DAC7C0EA6B}|Adventures.Domain\\Adventures.Domain.csproj|C:\\Users\\Natha\\Desktop\\.NET-course-files\\Adventures\\adventures.domain\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E459631-D45F-48CF-AF31-71DAC7C0EA6B}|Adventures.Domain\\Adventures.Domain.csproj|solutionrelative:adventures.domain\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E459631-D45F-48CF-AF31-71DAC7C0EA6B}|Adventures.Domain\\Adventures.Domain.csproj|C:\\Users\\Natha\\Desktop\\.NET-course-files\\Adventures\\adventures.domain\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E459631-D45F-48CF-AF31-71DAC7C0EA6B}|Adventures.Domain\\Adventures.Domain.csproj|solutionrelative:adventures.domain\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E459631-D45F-48CF-AF31-71DAC7C0EA6B}|Adventures.Domain\\Adventures.Domain.csproj|C:\\Users\\Natha\\Desktop\\.NET-course-files\\Adventures\\adventures.domain\\models\\traveller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E459631-D45F-48CF-AF31-71DAC7C0EA6B}|Adventures.Domain\\Adventures.Domain.csproj|solutionrelative:adventures.domain\\models\\traveller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E459631-D45F-48CF-AF31-71DAC7C0EA6B}|Adventures.Domain\\Adventures.Domain.csproj|C:\\Users\\Natha\\Desktop\\.NET-course-files\\Adventures\\adventures.domain\\models\\viewmodels\\createbookingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E459631-D45F-48CF-AF31-71DAC7C0EA6B}|Adventures.Domain\\Adventures.Domain.csproj|solutionrelative:adventures.domain\\models\\viewmodels\\createbookingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE84FD87-92B7-486A-8DE5-26508C6545DD}|Adventures.Infrastructure\\Adventures.Infrastructure.csproj|C:\\Users\\Natha\\Desktop\\.NET-course-files\\Adventures\\adventures.infrastructure\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE84FD87-92B7-486A-8DE5-26508C6545DD}|Adventures.Infrastructure\\Adventures.Infrastructure.csproj|solutionrelative:adventures.infrastructure\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0C2072-03F4-4282-88EB-C386BCABFDC0}|Adventures.Web\\Adventures.Web.csproj|C:\\Users\\Natha\\Desktop\\.NET-course-files\\Adventures\\adventures.web\\helpers\\travelhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F0C2072-03F4-4282-88EB-C386BCABFDC0}|Adventures.Web\\Adventures.Web.csproj|solutionrelative:adventures.web\\helpers\\travelhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 87,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TravelController.cs",
+              "DocumentMoniker": "C:\\Users\\Natha\\Desktop\\.NET-course-files\\Adventures\\Adventures.Web\\Controllers\\TravelController.cs",
+              "RelativeDocumentMoniker": "Adventures.Web\\Controllers\\TravelController.cs",
+              "ToolTip": "C:\\Users\\Natha\\Desktop\\.NET-course-files\\Adventures\\Adventures.Web\\Controllers\\TravelController.cs",
+              "RelativeToolTip": "Adventures.Web\\Controllers\\TravelController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T11:26:37.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TravellersController.cs",
+              "DocumentMoniker": "C:\\Users\\Natha\\Desktop\\.NET-course-files\\Adventures\\Adventures.API\\Controllers\\TravellersController.cs",
+              "RelativeDocumentMoniker": "Adventures.API\\Controllers\\TravellersController.cs",
+              "ToolTip": "C:\\Users\\Natha\\Desktop\\.NET-course-files\\Adventures\\Adventures.API\\Controllers\\TravellersController.cs",
+              "RelativeToolTip": "Adventures.API\\Controllers\\TravellersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T11:24:56.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TravelContext.cs",
+              "DocumentMoniker": "C:\\Users\\Natha\\Desktop\\.NET-course-files\\Adventures\\Adventures.Infrastructure\\TravelContext.cs",
+              "RelativeDocumentMoniker": "Adventures.Infrastructure\\TravelContext.cs",
+              "ToolTip": "C:\\Users\\Natha\\Desktop\\.NET-course-files\\Adventures\\Adventures.Infrastructure\\TravelContext.cs",
+              "RelativeToolTip": "Adventures.Infrastructure\\TravelContext.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA7wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T11:03:14.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Natha\\Desktop\\.NET-course-files\\Adventures\\Adventures.Infrastructure\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Adventures.Infrastructure\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Natha\\Desktop\\.NET-course-files\\Adventures\\Adventures.Infrastructure\\UnitOfWork.cs",
+              "RelativeToolTip": "Adventures.Infrastructure\\UnitOfWork.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T11:03:19.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Natha\\Desktop\\.NET-course-files\\Adventures\\Adventures.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Adventures.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Natha\\Desktop\\.NET-course-files\\Adventures\\Adventures.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "Adventures.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T11:03:47.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Natha\\Desktop\\.NET-course-files\\Adventures\\Adventures.Infrastructure\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "Adventures.Infrastructure\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Natha\\Desktop\\.NET-course-files\\Adventures\\Adventures.Infrastructure\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "Adventures.Infrastructure\\Repositories\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T11:03:57.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TravellerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Natha\\Desktop\\.NET-course-files\\Adventures\\Adventures.Infrastructure\\Repositories\\TravellerRepository.cs",
+              "RelativeDocumentMoniker": "Adventures.Infrastructure\\Repositories\\TravellerRepository.cs",
+              "ToolTip": "C:\\Users\\Natha\\Desktop\\.NET-course-files\\Adventures\\Adventures.Infrastructure\\Repositories\\TravellerRepository.cs",
+              "RelativeToolTip": "Adventures.Infrastructure\\Repositories\\TravellerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T11:04:00.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Natha\\Desktop\\.NET-course-files\\Adventures\\Adventures.Infrastructure\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Adventures.Infrastructure\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Natha\\Desktop\\.NET-course-files\\Adventures\\Adventures.Infrastructure\\IUnitOfWork.cs",
+              "RelativeToolTip": "Adventures.Infrastructure\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T15:47:40.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Natha\\Desktop\\.NET-course-files\\Adventures\\Adventures.API\\Program.cs",
+              "RelativeDocumentMoniker": "Adventures.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Natha\\Desktop\\.NET-course-files\\Adventures\\Adventures.API\\Program.cs",
+              "RelativeToolTip": "Adventures.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T15:47:05.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Natha\\Desktop\\.NET-course-files\\Adventures\\Adventures.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Adventures.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Natha\\Desktop\\.NET-course-files\\Adventures\\Adventures.API\\appsettings.json",
+              "RelativeToolTip": "Adventures.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-16T15:47:37.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateBookingViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Natha\\Desktop\\.NET-course-files\\Adventures\\Adventures.Domain\\Models\\ViewModels\\CreateBookingViewModel.cs",
+              "RelativeDocumentMoniker": "Adventures.Domain\\Models\\ViewModels\\CreateBookingViewModel.cs",
+              "ToolTip": "C:\\Users\\Natha\\Desktop\\.NET-course-files\\Adventures\\Adventures.Domain\\Models\\ViewModels\\CreateBookingViewModel.cs",
+              "RelativeToolTip": "Adventures.Domain\\Models\\ViewModels\\CreateBookingViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T11:24:47.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Traveller.cs",
+              "DocumentMoniker": "C:\\Users\\Natha\\Desktop\\.NET-course-files\\Adventures\\Adventures.Domain\\Models\\Traveller.cs",
+              "RelativeDocumentMoniker": "Adventures.Domain\\Models\\Traveller.cs",
+              "ToolTip": "C:\\Users\\Natha\\Desktop\\.NET-course-files\\Adventures\\Adventures.Domain\\Models\\Traveller.cs",
+              "RelativeToolTip": "Adventures.Domain\\Models\\Traveller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T11:25:08.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TravelHelperTest.cs",
+              "DocumentMoniker": "C:\\Users\\Natha\\Desktop\\.NET-course-files\\Adventures\\Adventures.Tests\\TravelHelperTest.cs",
+              "RelativeDocumentMoniker": "Adventures.Tests\\TravelHelperTest.cs",
+              "ToolTip": "C:\\Users\\Natha\\Desktop\\.NET-course-files\\Adventures\\Adventures.Tests\\TravelHelperTest.cs",
+              "RelativeToolTip": "Adventures.Tests\\TravelHelperTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T10:51:26.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\Natha\\Desktop\\.NET-course-files\\Adventures\\Adventures.Domain\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "Adventures.Domain\\Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\Natha\\Desktop\\.NET-course-files\\Adventures\\Adventures.Domain\\Models\\Booking.cs",
+              "RelativeToolTip": "Adventures.Domain\\Models\\Booking.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T11:25:10.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\Natha\\Desktop\\.NET-course-files\\Adventures\\Adventures.Domain\\Models\\Country.cs",
+              "RelativeDocumentMoniker": "Adventures.Domain\\Models\\Country.cs",
+              "ToolTip": "C:\\Users\\Natha\\Desktop\\.NET-course-files\\Adventures\\Adventures.Domain\\Models\\Country.cs",
+              "RelativeToolTip": "Adventures.Domain\\Models\\Country.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T11:26:18.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Natha\\Desktop\\.NET-course-files\\Adventures\\Adventures.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Adventures.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Natha\\Desktop\\.NET-course-files\\Adventures\\Adventures.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Adventures.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T11:26:34.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DBInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\Natha\\Desktop\\.NET-course-files\\Adventures\\Adventures.Infrastructure\\DBInitializer.cs",
+              "RelativeDocumentMoniker": "Adventures.Infrastructure\\DBInitializer.cs",
+              "ToolTip": "C:\\Users\\Natha\\Desktop\\.NET-course-files\\Adventures\\Adventures.Infrastructure\\DBInitializer.cs",
+              "RelativeToolTip": "Adventures.Infrastructure\\DBInitializer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T11:03:59.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TravelHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Natha\\Desktop\\.NET-course-files\\Adventures\\Adventures.Web\\Helpers\\TravelHelper.cs",
+              "RelativeDocumentMoniker": "Adventures.Web\\Helpers\\TravelHelper.cs",
+              "ToolTip": "C:\\Users\\Natha\\Desktop\\.NET-course-files\\Adventures\\Adventures.Web\\Helpers\\TravelHelper.cs",
+              "RelativeToolTip": "Adventures.Web\\Helpers\\TravelHelper.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAowBMAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T09:21:51.497Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+﻿@model MusicStore.Models.ViewModels.ListShoppingCartViewModel
+
+@{
+    ViewData["Title"] = "Shopping Cart";
+}
+
+<h1>Shopping Cart</h1>
+<h3>Review your albums</h3>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CartItems)
+            </th>
+            <th>
+                Price (each)
+            </th>
+            <th>
+                Quantity
+            </th>
+            <th>
+                Total
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.CartItems)
+        {
+            <tr>
+                <td>
+                    <a asp-controller="Store" asp-action="Details" asp-route-id="@item.AlbumID">
+                        @Html.DisplayFor(modelItem => item.Album.Title)
+                    </a>
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Album.Price) euro
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Count)
+                </td>
+                <td>
+                    @(item.Count * item.Album.Price) euro 
+                    @*beter in de controller maar ik ben lui*@                
+                </td>
+                <td>
+                    <a asp-controller="ShoppingCart" asp-action="DiminishCartItem" asp-route-AlbumID="@item.AlbumID" class="text-decoration-none">
+                        -
+                    </a>
+                    |
+                    <a asp-action="AddToCart" asp-controller="ShoppingCart" asp-route-id="@item.AlbumID" class="text-decoration-none">
+                        +
+                    </a>
+                    |
+                    <a asp-controller="shoppingcart" asp-action="RemoveFromCart" asp-route-AlbumID="@item.AlbumID" class="text-decoration-none">
+                        Remove
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+    <tfoot>
+        <tr>
+            <th>
+                Total
+            </th>
+            <th></th>
+            <th></th>
+            <th>
+                @Html.DisplayFor(model => model.cartTotal)
+            </th>
+            <th></th>
+        </tr>        
+        <tr>
+            <th>
+                Discount
+            </th>
+            <th></th>
+            <th></th>
+            <th>
+                @Html.DisplayFor(model => model.discount)
+            </th>
+            <th></th>
+        </tr>
+    </tfoot>
+</table>
+
+<a asp-action="Create" asp-controller="Checkout">Checkout</a> | <a asp-action="Index" asp-controller="Home">Back to home</a>

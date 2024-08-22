@@ -1,0 +1,12 @@
+﻿@using FinalExercise.Data
+@model List<Programme>;
+
+@foreach(var programme in Model)
+{
+    <h2>@programme.Name</h2>
+
+    @foreach(var course in programme.Courses)
+    {
+        <li><a asp-controller="Question" asp-action="course" asp-route-courseid="@course.CourseId"> @course.Name</a> (@course.Enrollments.Count() enrollments(s))</li>
+    }
+}

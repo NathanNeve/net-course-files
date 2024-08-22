@@ -1,0 +1,34 @@
+C:\Users\u0068049\OneDrive - Thomas More\2ITF .NET Development\2ITF .NET Development Shared\2023-2024\Design Patterns\2 Dependency Injection\ExerciseDI_FeedReader - start\ExerciseDI_FeedReader\obj\Debug\net7.0\ExerciseDI_FeedReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\@ThomasMore\2ITF .NET Development\ExerciseDI_FeedReader - start\ExerciseDI_FeedReader\bin\Debug\net7.0\ExerciseDI_FeedReader.exe
+C:\@ThomasMore\2ITF .NET Development\ExerciseDI_FeedReader - start\ExerciseDI_FeedReader\bin\Debug\net7.0\ExerciseDI_FeedReader.deps.json
+C:\@ThomasMore\2ITF .NET Development\ExerciseDI_FeedReader - start\ExerciseDI_FeedReader\bin\Debug\net7.0\ExerciseDI_FeedReader.runtimeconfig.json
+C:\@ThomasMore\2ITF .NET Development\ExerciseDI_FeedReader - start\ExerciseDI_FeedReader\bin\Debug\net7.0\ExerciseDI_FeedReader.dll
+C:\@ThomasMore\2ITF .NET Development\ExerciseDI_FeedReader - start\ExerciseDI_FeedReader\bin\Debug\net7.0\ExerciseDI_FeedReader.pdb
+C:\@ThomasMore\2ITF .NET Development\ExerciseDI_FeedReader - start\ExerciseDI_FeedReader\obj\Debug\net7.0\ExerciseDI_FeedReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\@ThomasMore\2ITF .NET Development\ExerciseDI_FeedReader - start\ExerciseDI_FeedReader\obj\Debug\net7.0\ExerciseDI_FeedReader.AssemblyInfoInputs.cache
+C:\@ThomasMore\2ITF .NET Development\ExerciseDI_FeedReader - start\ExerciseDI_FeedReader\obj\Debug\net7.0\ExerciseDI_FeedReader.AssemblyInfo.cs
+C:\@ThomasMore\2ITF .NET Development\ExerciseDI_FeedReader - start\ExerciseDI_FeedReader\obj\Debug\net7.0\ExerciseDI_FeedReader.csproj.CoreCompileInputs.cache
+C:\@ThomasMore\2ITF .NET Development\ExerciseDI_FeedReader - start\ExerciseDI_FeedReader\obj\Debug\net7.0\ExerciseDI_FeedReader.dll
+C:\@ThomasMore\2ITF .NET Development\ExerciseDI_FeedReader - start\ExerciseDI_FeedReader\obj\Debug\net7.0\refint\ExerciseDI_FeedReader.dll
+C:\@ThomasMore\2ITF .NET Development\ExerciseDI_FeedReader - start\ExerciseDI_FeedReader\obj\Debug\net7.0\ExerciseDI_FeedReader.pdb
+C:\@ThomasMore\2ITF .NET Development\ExerciseDI_FeedReader - start\ExerciseDI_FeedReader\obj\Debug\net7.0\ExerciseDI_FeedReader.genruntimeconfig.cache
+C:\@ThomasMore\2ITF .NET Development\ExerciseDI_FeedReader - start\ExerciseDI_FeedReader\obj\Debug\net7.0\ref\ExerciseDI_FeedReader.dll
+C:\_repos_\.NET-course-files\examenprep\www\DI_FeedReader - start\ExerciseDI_FeedReader\bin\Debug\net7.0\ExerciseDI_FeedReader.exe
+C:\_repos_\.NET-course-files\examenprep\www\DI_FeedReader - start\ExerciseDI_FeedReader\bin\Debug\net7.0\ExerciseDI_FeedReader.deps.json
+C:\_repos_\.NET-course-files\examenprep\www\DI_FeedReader - start\ExerciseDI_FeedReader\bin\Debug\net7.0\ExerciseDI_FeedReader.runtimeconfig.json
+C:\_repos_\.NET-course-files\examenprep\www\DI_FeedReader - start\ExerciseDI_FeedReader\bin\Debug\net7.0\ExerciseDI_FeedReader.dll
+C:\_repos_\.NET-course-files\examenprep\www\DI_FeedReader - start\ExerciseDI_FeedReader\bin\Debug\net7.0\ExerciseDI_FeedReader.pdb
+C:\_repos_\.NET-course-files\examenprep\www\DI_FeedReader - start\ExerciseDI_FeedReader\obj\Debug\net7.0\ExerciseDI_FeedReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\_repos_\.NET-course-files\examenprep\www\DI_FeedReader - start\ExerciseDI_FeedReader\obj\Debug\net7.0\ExerciseDI_FeedReader.AssemblyInfoInputs.cache
+C:\_repos_\.NET-course-files\examenprep\www\DI_FeedReader - start\ExerciseDI_FeedReader\obj\Debug\net7.0\ExerciseDI_FeedReader.AssemblyInfo.cs
+C:\_repos_\.NET-course-files\examenprep\www\DI_FeedReader - start\ExerciseDI_FeedReader\obj\Debug\net7.0\ExerciseDI_FeedReader.csproj.CoreCompileInputs.cache
+C:\_repos_\.NET-course-files\examenprep\www\DI_FeedReader - start\ExerciseDI_FeedReader\obj\Debug\net7.0\ExerciseDI_FeedReader.sourcelink.json
+C:\_repos_\.NET-course-files\examenprep\www\DI_FeedReader - start\ExerciseDI_FeedReader\obj\Debug\net7.0\ExerciseDI_FeedReader.dll
+C:\_repos_\.NET-course-files\examenprep\www\DI_FeedReader - start\ExerciseDI_FeedReader\obj\Debug\net7.0\refint\ExerciseDI_FeedReader.dll
+C:\_repos_\.NET-course-files\examenprep\www\DI_FeedReader - start\ExerciseDI_FeedReader\obj\Debug\net7.0\ExerciseDI_FeedReader.pdb
+C:\_repos_\.NET-course-files\examenprep\www\DI_FeedReader - start\ExerciseDI_FeedReader\obj\Debug\net7.0\ExerciseDI_FeedReader.genruntimeconfig.cache
+C:\_repos_\.NET-course-files\examenprep\www\DI_FeedReader - start\ExerciseDI_FeedReader\obj\Debug\net7.0\ref\ExerciseDI_FeedReader.dll
+C:\_repos_\.NET-course-files\examenprep\www\DI_FeedReader - start\ExerciseDI_FeedReader\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\_repos_\.NET-course-files\examenprep\www\DI_FeedReader - start\ExerciseDI_FeedReader\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\_repos_\.NET-course-files\examenprep\www\DI_FeedReader - start\ExerciseDI_FeedReader\obj\Debug\net7.0\ExerciseDI_FeedReader.csproj.AssemblyReference.cache
+C:\_repos_\.NET-course-files\examenprep\www\DI_FeedReader - start\ExerciseDI_FeedReader\obj\Debug\net7.0\Exercise.9253359B.Up2Date

@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\StringCalculatorKata\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95FA9143-31C5-442F-90B9-89EA7C77128D}|StringCalculatorKataTest\\StringCalculatorKataTest.csproj|c:\\_repos_\\.net-course-files\\examenprep\\www\\stringcalculatorkata\\stringcalculatorkatatest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95FA9143-31C5-442F-90B9-89EA7C77128D}|StringCalculatorKataTest\\StringCalculatorKataTest.csproj|solutionrelative:stringcalculatorkatatest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CFC5BAF-7214-4421-8316-396414702879}|StringCalculatorKata\\StringCalculatorKata.csproj|c:\\_repos_\\.net-course-files\\examenprep\\www\\stringcalculatorkata\\stringcalculatorkata\\stringcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CFC5BAF-7214-4421-8316-396414702879}|StringCalculatorKata\\StringCalculatorKata.csproj|solutionrelative:stringcalculatorkata\\stringcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StringCalculator.cs",
+              "DocumentMoniker": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\StringCalculatorKata\\StringCalculatorKata\\StringCalculator.cs",
+              "RelativeDocumentMoniker": "StringCalculatorKata\\StringCalculator.cs",
+              "ToolTip": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\StringCalculatorKata\\StringCalculatorKata\\StringCalculator.cs",
+              "RelativeToolTip": "StringCalculatorKata\\StringCalculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T14:43:08.095Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\StringCalculatorKata\\StringCalculatorKataTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "StringCalculatorKataTest\\UnitTest1.cs",
+              "ToolTip": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\StringCalculatorKata\\StringCalculatorKataTest\\UnitTest1.cs",
+              "RelativeToolTip": "StringCalculatorKataTest\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T14:32:00.817Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Natha\\source\\repos\\FietsAppHerstel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4CF257-0775-47FB-8FE3-72975402C39B}|FietsAppHerstel.csproj|c:\\users\\natha\\source\\repos\\fietsappherstel\\fiets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4CF257-0775-47FB-8FE3-72975402C39B}|FietsAppHerstel.csproj|solutionrelative:fiets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4CF257-0775-47FB-8FE3-72975402C39B}|FietsAppHerstel.csproj|c:\\users\\natha\\source\\repos\\fietsappherstel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4CF257-0775-47FB-8FE3-72975402C39B}|FietsAppHerstel.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4CF257-0775-47FB-8FE3-72975402C39B}|FietsAppHerstel.csproj|c:\\users\\natha\\source\\repos\\fietsappherstel\\speedpedelec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4CF257-0775-47FB-8FE3-72975402C39B}|FietsAppHerstel.csproj|solutionrelative:speedpedelec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4CF257-0775-47FB-8FE3-72975402C39B}|FietsAppHerstel.csproj|c:\\users\\natha\\source\\repos\\fietsappherstel\\mountainbike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4CF257-0775-47FB-8FE3-72975402C39B}|FietsAppHerstel.csproj|solutionrelative:mountainbike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4CF257-0775-47FB-8FE3-72975402C39B}|FietsAppHerstel.csproj|c:\\users\\natha\\source\\repos\\fietsappherstel\\racefiets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4CF257-0775-47FB-8FE3-72975402C39B}|FietsAppHerstel.csproj|solutionrelative:racefiets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Fiets.cs",
+              "DocumentMoniker": "C:\\Users\\Natha\\source\\repos\\FietsAppHerstel\\Fiets.cs",
+              "RelativeDocumentMoniker": "Fiets.cs",
+              "ToolTip": "C:\\Users\\Natha\\source\\repos\\FietsAppHerstel\\Fiets.cs",
+              "RelativeToolTip": "Fiets.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T14:08:14.212Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Natha\\source\\repos\\FietsAppHerstel\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Natha\\source\\repos\\FietsAppHerstel\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAzwB4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T13:51:34.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SpeedPedelec.cs",
+              "DocumentMoniker": "C:\\Users\\Natha\\source\\repos\\FietsAppHerstel\\SpeedPedelec.cs",
+              "RelativeDocumentMoniker": "SpeedPedelec.cs",
+              "ToolTip": "C:\\Users\\Natha\\source\\repos\\FietsAppHerstel\\SpeedPedelec.cs",
+              "RelativeToolTip": "SpeedPedelec.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAowBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T15:36:09.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MountainBike.cs",
+              "DocumentMoniker": "C:\\Users\\Natha\\source\\repos\\FietsAppHerstel\\MountainBike.cs",
+              "RelativeDocumentMoniker": "MountainBike.cs",
+              "ToolTip": "C:\\Users\\Natha\\source\\repos\\FietsAppHerstel\\MountainBike.cs",
+              "RelativeToolTip": "MountainBike.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T15:35:56.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RaceFiets.cs",
+              "DocumentMoniker": "C:\\Users\\Natha\\source\\repos\\FietsAppHerstel\\RaceFiets.cs",
+              "RelativeDocumentMoniker": "RaceFiets.cs",
+              "ToolTip": "C:\\Users\\Natha\\source\\repos\\FietsAppHerstel\\RaceFiets.cs",
+              "RelativeToolTip": "RaceFiets.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T15:35:32.314Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

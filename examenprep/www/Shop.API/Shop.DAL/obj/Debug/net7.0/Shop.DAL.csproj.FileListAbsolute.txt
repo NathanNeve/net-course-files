@@ -1,0 +1,15 @@
+C:\_repos_\.NET-course-files\examenprep\www\Shop.API\Shop.DAL\bin\Debug\net7.0\Shop.DAL.deps.json
+C:\_repos_\.NET-course-files\examenprep\www\Shop.API\Shop.DAL\bin\Debug\net7.0\Shop.DAL.runtimeconfig.json
+C:\_repos_\.NET-course-files\examenprep\www\Shop.API\Shop.DAL\bin\Debug\net7.0\Shop.DAL.dll
+C:\_repos_\.NET-course-files\examenprep\www\Shop.API\Shop.DAL\bin\Debug\net7.0\Shop.DAL.pdb
+C:\_repos_\.NET-course-files\examenprep\www\Shop.API\Shop.DAL\obj\Debug\net7.0\Shop.DAL.csproj.AssemblyReference.cache
+C:\_repos_\.NET-course-files\examenprep\www\Shop.API\Shop.DAL\obj\Debug\net7.0\Shop.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\_repos_\.NET-course-files\examenprep\www\Shop.API\Shop.DAL\obj\Debug\net7.0\Shop.DAL.AssemblyInfoInputs.cache
+C:\_repos_\.NET-course-files\examenprep\www\Shop.API\Shop.DAL\obj\Debug\net7.0\Shop.DAL.AssemblyInfo.cs
+C:\_repos_\.NET-course-files\examenprep\www\Shop.API\Shop.DAL\obj\Debug\net7.0\Shop.DAL.csproj.CoreCompileInputs.cache
+C:\_repos_\.NET-course-files\examenprep\www\Shop.API\Shop.DAL\obj\Debug\net7.0\Shop.DAL.sourcelink.json
+C:\_repos_\.NET-course-files\examenprep\www\Shop.API\Shop.DAL\obj\Debug\net7.0\Shop.DAL.dll
+C:\_repos_\.NET-course-files\examenprep\www\Shop.API\Shop.DAL\obj\Debug\net7.0\refint\Shop.DAL.dll
+C:\_repos_\.NET-course-files\examenprep\www\Shop.API\Shop.DAL\obj\Debug\net7.0\Shop.DAL.pdb
+C:\_repos_\.NET-course-files\examenprep\www\Shop.API\Shop.DAL\obj\Debug\net7.0\Shop.DAL.genruntimeconfig.cache
+C:\_repos_\.NET-course-files\examenprep\www\Shop.API\Shop.DAL\obj\Debug\net7.0\ref\Shop.DAL.dll

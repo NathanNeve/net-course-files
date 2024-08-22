@@ -1,0 +1,15 @@
+C:\Data\.NET Development\WT\Design Patterns\Applications\ExerciseDI_FeedReader\ExerciseDI_FeedReader\bin\Debug\net6.0\ExerciseDI_FeedReader.exe
+C:\Data\.NET Development\WT\Design Patterns\Applications\ExerciseDI_FeedReader\ExerciseDI_FeedReader\bin\Debug\net6.0\ExerciseDI_FeedReader.deps.json
+C:\Data\.NET Development\WT\Design Patterns\Applications\ExerciseDI_FeedReader\ExerciseDI_FeedReader\bin\Debug\net6.0\ExerciseDI_FeedReader.runtimeconfig.json
+C:\Data\.NET Development\WT\Design Patterns\Applications\ExerciseDI_FeedReader\ExerciseDI_FeedReader\bin\Debug\net6.0\ExerciseDI_FeedReader.dll
+C:\Data\.NET Development\WT\Design Patterns\Applications\ExerciseDI_FeedReader\ExerciseDI_FeedReader\bin\Debug\net6.0\ExerciseDI_FeedReader.pdb
+C:\Data\.NET Development\WT\Design Patterns\Applications\ExerciseDI_FeedReader\ExerciseDI_FeedReader\obj\Debug\net6.0\ExerciseDI_FeedReader.csproj.AssemblyReference.cache
+C:\Data\.NET Development\WT\Design Patterns\Applications\ExerciseDI_FeedReader\ExerciseDI_FeedReader\obj\Debug\net6.0\ExerciseDI_FeedReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\.NET Development\WT\Design Patterns\Applications\ExerciseDI_FeedReader\ExerciseDI_FeedReader\obj\Debug\net6.0\ExerciseDI_FeedReader.AssemblyInfoInputs.cache
+C:\Data\.NET Development\WT\Design Patterns\Applications\ExerciseDI_FeedReader\ExerciseDI_FeedReader\obj\Debug\net6.0\ExerciseDI_FeedReader.AssemblyInfo.cs
+C:\Data\.NET Development\WT\Design Patterns\Applications\ExerciseDI_FeedReader\ExerciseDI_FeedReader\obj\Debug\net6.0\ExerciseDI_FeedReader.csproj.CoreCompileInputs.cache
+C:\Data\.NET Development\WT\Design Patterns\Applications\ExerciseDI_FeedReader\ExerciseDI_FeedReader\obj\Debug\net6.0\ExerciseDI_FeedReader.dll
+C:\Data\.NET Development\WT\Design Patterns\Applications\ExerciseDI_FeedReader\ExerciseDI_FeedReader\obj\Debug\net6.0\refint\ExerciseDI_FeedReader.dll
+C:\Data\.NET Development\WT\Design Patterns\Applications\ExerciseDI_FeedReader\ExerciseDI_FeedReader\obj\Debug\net6.0\ExerciseDI_FeedReader.pdb
+C:\Data\.NET Development\WT\Design Patterns\Applications\ExerciseDI_FeedReader\ExerciseDI_FeedReader\obj\Debug\net6.0\ExerciseDI_FeedReader.genruntimeconfig.cache
+C:\Data\.NET Development\WT\Design Patterns\Applications\ExerciseDI_FeedReader\ExerciseDI_FeedReader\obj\Debug\net6.0\ref\ExerciseDI_FeedReader.dll

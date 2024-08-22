@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\ContosoUniversity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2F4E0F-B4B7-41E4-A5E1-634B2A6BCF95}|ContosoUniversity\\ContosoUniversity.csproj|c:\\_repos_\\.net-course-files\\examenprep\\www\\contosouniversity\\contosouniversity\\areas\\admin\\views\\courses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F2F4E0F-B4B7-41E4-A5E1-634B2A6BCF95}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\areas\\admin\\views\\courses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2F4E0F-B4B7-41E4-A5E1-634B2A6BCF95}|ContosoUniversity\\ContosoUniversity.csproj|c:\\_repos_\\.net-course-files\\examenprep\\www\\contosouniversity\\contosouniversity\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F2F4E0F-B4B7-41E4-A5E1-634B2A6BCF95}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2F4E0F-B4B7-41E4-A5E1-634B2A6BCF95}|ContosoUniversity\\ContosoUniversity.csproj|c:\\_repos_\\.net-course-files\\examenprep\\www\\contosouniversity\\contosouniversity\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F2F4E0F-B4B7-41E4-A5E1-634B2A6BCF95}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2F4E0F-B4B7-41E4-A5E1-634B2A6BCF95}|ContosoUniversity\\ContosoUniversity.csproj|c:\\_repos_\\.net-course-files\\examenprep\\www\\contosouniversity\\contosouniversity\\areas\\admin\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F2F4E0F-B4B7-41E4-A5E1-634B2A6BCF95}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\areas\\admin\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2F4E0F-B4B7-41E4-A5E1-634B2A6BCF95}|ContosoUniversity\\ContosoUniversity.csproj|c:\\_repos_\\.net-course-files\\examenprep\\www\\contosouniversity\\contosouniversity\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F2F4E0F-B4B7-41E4-A5E1-634B2A6BCF95}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2F4E0F-B4B7-41E4-A5E1-634B2A6BCF95}|ContosoUniversity\\ContosoUniversity.csproj|c:\\_repos_\\.net-course-files\\examenprep\\www\\contosouniversity\\contosouniversity\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F2F4E0F-B4B7-41E4-A5E1-634B2A6BCF95}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2F4E0F-B4B7-41E4-A5E1-634B2A6BCF95}|ContosoUniversity\\ContosoUniversity.csproj|c:\\_repos_\\.net-course-files\\examenprep\\www\\contosouniversity\\contosouniversity\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F2F4E0F-B4B7-41E4-A5E1-634B2A6BCF95}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2F4E0F-B4B7-41E4-A5E1-634B2A6BCF95}|ContosoUniversity\\ContosoUniversity.csproj|c:\\_repos_\\.net-course-files\\examenprep\\www\\contosouniversity\\contosouniversity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F2F4E0F-B4B7-41E4-A5E1-634B2A6BCF95}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2F4E0F-B4B7-41E4-A5E1-634B2A6BCF95}|ContosoUniversity\\ContosoUniversity.csproj|c:\\_repos_\\.net-course-files\\examenprep\\www\\contosouniversity\\contosouniversity\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F2F4E0F-B4B7-41E4-A5E1-634B2A6BCF95}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2F4E0F-B4B7-41E4-A5E1-634B2A6BCF95}|ContosoUniversity\\ContosoUniversity.csproj|c:\\_repos_\\.net-course-files\\examenprep\\www\\contosouniversity\\contosouniversity\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F2F4E0F-B4B7-41E4-A5E1-634B2A6BCF95}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2F4E0F-B4B7-41E4-A5E1-634B2A6BCF95}|ContosoUniversity\\ContosoUniversity.csproj|c:\\_repos_\\.net-course-files\\examenprep\\www\\contosouniversity\\contosouniversity\\migrations\\20240602094320_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F2F4E0F-B4B7-41E4-A5E1-634B2A6BCF95}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\migrations\\20240602094320_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2F4E0F-B4B7-41E4-A5E1-634B2A6BCF95}|ContosoUniversity\\ContosoUniversity.csproj|c:\\_repos_\\.net-course-files\\examenprep\\www\\contosouniversity\\contosouniversity\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F2F4E0F-B4B7-41E4-A5E1-634B2A6BCF95}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2F4E0F-B4B7-41E4-A5E1-634B2A6BCF95}|ContosoUniversity\\ContosoUniversity.csproj|c:\\_repos_\\.net-course-files\\examenprep\\www\\contosouniversity\\contosouniversity\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F2F4E0F-B4B7-41E4-A5E1-634B2A6BCF95}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2F4E0F-B4B7-41E4-A5E1-634B2A6BCF95}|ContosoUniversity\\ContosoUniversity.csproj|c:\\_repos_\\.net-course-files\\examenprep\\www\\contosouniversity\\contosouniversity\\models\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F2F4E0F-B4B7-41E4-A5E1-634B2A6BCF95}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\models\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2F4E0F-B4B7-41E4-A5E1-634B2A6BCF95}|ContosoUniversity\\ContosoUniversity.csproj|c:\\_repos_\\.net-course-files\\examenprep\\www\\contosouniversity\\contosouniversity\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F2F4E0F-B4B7-41E4-A5E1-634B2A6BCF95}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2F4E0F-B4B7-41E4-A5E1-634B2A6BCF95}|ContosoUniversity\\ContosoUniversity.csproj|c:\\_repos_\\.net-course-files\\examenprep\\www\\contosouniversity\\contosouniversity\\migrations\\20240602092851_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F2F4E0F-B4B7-41E4-A5E1-634B2A6BCF95}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\migrations\\20240602092851_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2F4E0F-B4B7-41E4-A5E1-634B2A6BCF95}|ContosoUniversity\\ContosoUniversity.csproj|c:\\_repos_\\.net-course-files\\examenprep\\www\\contosouniversity\\contosouniversity\\migrations\\schoolcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F2F4E0F-B4B7-41E4-A5E1-634B2A6BCF95}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\migrations\\schoolcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\ContosoUniversity\\ContosoUniversity\\Areas\\Admin\\Views\\Courses\\Create.cshtml",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Areas\\Admin\\Views\\Courses\\Create.cshtml",
+              "ToolTip": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\ContosoUniversity\\ContosoUniversity\\Areas\\Admin\\Views\\Courses\\Create.cshtml",
+              "RelativeToolTip": "ContosoUniversity\\Areas\\Admin\\Views\\Courses\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T14:00:05.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\ContosoUniversity\\ContosoUniversity\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\ContosoUniversity\\ContosoUniversity\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ContosoUniversity\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T14:00:00.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\ContosoUniversity\\ContosoUniversity\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\ContosoUniversity\\ContosoUniversity\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ContosoUniversity\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T13:59:57.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\ContosoUniversity\\ContosoUniversity\\Areas\\Admin\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Areas\\Admin\\Controllers\\CoursesController.cs",
+              "ToolTip": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\ContosoUniversity\\ContosoUniversity\\Areas\\Admin\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "ContosoUniversity\\Areas\\Admin\\Controllers\\CoursesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T13:54:35.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\ContosoUniversity\\ContosoUniversity\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\ContosoUniversity\\ContosoUniversity\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ContosoUniversity\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T13:53:06.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\ContosoUniversity\\ContosoUniversity\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\ContosoUniversity\\ContosoUniversity\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ContosoUniversity\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T13:13:18.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\ContosoUniversity\\ContosoUniversity\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\ContosoUniversity\\ContosoUniversity\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ContosoUniversity\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T13:13:10.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\ContosoUniversity\\ContosoUniversity\\Program.cs",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Program.cs",
+              "ToolTip": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\ContosoUniversity\\ContosoUniversity\\Program.cs",
+              "RelativeToolTip": "ContosoUniversity\\Program.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T12:52:48.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240602094320_first.cs",
+              "DocumentMoniker": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\ContosoUniversity\\ContosoUniversity\\Migrations\\20240602094320_first.cs",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Migrations\\20240602094320_first.cs",
+              "ToolTip": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\ContosoUniversity\\ContosoUniversity\\Migrations\\20240602094320_first.cs",
+              "RelativeToolTip": "ContosoUniversity\\Migrations\\20240602094320_first.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwDMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T09:43:20.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\ContosoUniversity\\ContosoUniversity\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Models\\Student.cs",
+              "ToolTip": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\ContosoUniversity\\ContosoUniversity\\Models\\Student.cs",
+              "RelativeToolTip": "ContosoUniversity\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T09:42:48.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Schoolcontext.cs",
+              "DocumentMoniker": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\ContosoUniversity\\ContosoUniversity\\Data\\Schoolcontext.cs",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Data\\Schoolcontext.cs",
+              "ToolTip": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\ContosoUniversity\\ContosoUniversity\\Data\\Schoolcontext.cs",
+              "RelativeToolTip": "ContosoUniversity\\Data\\Schoolcontext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T09:42:21.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Classroom.cs",
+              "DocumentMoniker": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\ContosoUniversity\\ContosoUniversity\\Models\\Classroom.cs",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Models\\Classroom.cs",
+              "ToolTip": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\ContosoUniversity\\ContosoUniversity\\Models\\Classroom.cs",
+              "RelativeToolTip": "ContosoUniversity\\Models\\Classroom.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T09:42:00.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\ContosoUniversity\\ContosoUniversity\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Models\\Teacher.cs",
+              "ToolTip": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\ContosoUniversity\\ContosoUniversity\\Models\\Teacher.cs",
+              "RelativeToolTip": "ContosoUniversity\\Models\\Teacher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T09:41:42.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "00000000000000_CreateIdentitySchema.cs",
+              "DocumentMoniker": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\ContosoUniversity\\ContosoUniversity\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ToolTip": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\ContosoUniversity\\ContosoUniversity\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeToolTip": "ContosoUniversity\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAqwNwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T09:31:49.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\ContosoUniversity\\ContosoUniversity\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\ContosoUniversity\\ContosoUniversity\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "ContosoUniversity\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAPMAAAAAAAAAAAAqwBMBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T12:15:12.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SchoolContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\ContosoUniversity\\ContosoUniversity\\Migrations\\SchoolContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Migrations\\SchoolContextModelSnapshot.cs",
+              "ToolTip": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\ContosoUniversity\\ContosoUniversity\\Migrations\\SchoolContextModelSnapshot.cs",
+              "RelativeToolTip": "ContosoUniversity\\Migrations\\SchoolContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T09:31:04.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240602092851_initial.cs",
+              "DocumentMoniker": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\ContosoUniversity\\ContosoUniversity\\Migrations\\20240602092851_initial.cs",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Migrations\\20240602092851_initial.cs",
+              "ToolTip": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\ContosoUniversity\\ContosoUniversity\\Migrations\\20240602092851_initial.cs",
+              "RelativeToolTip": "ContosoUniversity\\Migrations\\20240602092851_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T09:28:51.192Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

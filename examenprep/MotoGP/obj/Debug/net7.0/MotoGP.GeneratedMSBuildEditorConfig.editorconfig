@@ -1,0 +1,91 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MotoGP
+build_property.RootNamespace = MotoGP
+build_property.ProjectDir = C:\_repos_\.NET-course-files\examenprep\MotoGP\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\_repos_\.NET-course-files\examenprep\MotoGP
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/_repos_/.NET-course-files/examenprep/MotoGP/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/_repos_/.NET-course-files/examenprep/MotoGP/Views/Home/Menu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNZW51LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/_repos_/.NET-course-files/examenprep/MotoGP/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/_repos_/.NET-course-files/examenprep/MotoGP/Views/Info/BuildMap.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5mb1xCdWlsZE1hcC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/_repos_/.NET-course-files/examenprep/MotoGP/Views/Info/ListRaces.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5mb1xMaXN0UmFjZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/_repos_/.NET-course-files/examenprep/MotoGP/Views/Info/ListRiders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5mb1xMaXN0UmlkZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/_repos_/.NET-course-files/examenprep/MotoGP/Views/Info/SelectRace.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5mb1xTZWxlY3RSYWNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/_repos_/.NET-course-files/examenprep/MotoGP/Views/Info/ShowRace.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5mb1xTaG93UmFjZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/_repos_/.NET-course-files/examenprep/MotoGP/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/_repos_/.NET-course-files/examenprep/MotoGP/Views/Shared/_NewLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9OZXdMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/_repos_/.NET-course-files/examenprep/MotoGP/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/_repos_/.NET-course-files/examenprep/MotoGP/Views/Shop/ConfirmOrder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcFxDb25maXJtT3JkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/_repos_/.NET-course-files/examenprep/MotoGP/Views/Shop/EditTicket.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcFxFZGl0VGlja2V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/_repos_/.NET-course-files/examenprep/MotoGP/Views/Shop/ListTickets.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcFxMaXN0VGlja2V0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/_repos_/.NET-course-files/examenprep/MotoGP/Views/Shop/OrderTicket.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcFxPcmRlclRpY2tldC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/_repos_/.NET-course-files/examenprep/MotoGP/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/_repos_/.NET-course-files/examenprep/MotoGP/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/_repos_/.NET-course-files/examenprep/MotoGP/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-zv1hd2kgcf

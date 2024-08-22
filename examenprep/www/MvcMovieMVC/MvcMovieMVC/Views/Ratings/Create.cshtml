@@ -1,0 +1,21 @@
+﻿@{
+    ViewData["Title"] = "Create";
+}
+
+<form asp-action="Create">
+    <input type="submit" value="Create" />
+</form>
+@model MvcMovie.Models.Rating
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<form asp-action="Create">
+    <label asp-for="Code">@Html.DisplayNameFor(model => model.Code)</label>
+    <input type="text" name="code" /> <br />
+    <label asp-for="Name">@Html.DisplayNameFor(model => model.Name)</label>
+    <input type="text" name="name" /> <br />
+
+    <input type="submit" name="submit" value="Create" />
+</form>

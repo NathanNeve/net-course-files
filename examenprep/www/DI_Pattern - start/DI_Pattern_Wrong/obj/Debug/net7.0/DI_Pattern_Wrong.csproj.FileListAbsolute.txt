@@ -1,0 +1,15 @@
+C:\_repos_\.NET-course-files\examenprep\www\DI_Pattern - start\DI_Pattern_Wrong\bin\Debug\net7.0\DI_Pattern_Wrong.exe
+C:\_repos_\.NET-course-files\examenprep\www\DI_Pattern - start\DI_Pattern_Wrong\bin\Debug\net7.0\DI_Pattern_Wrong.deps.json
+C:\_repos_\.NET-course-files\examenprep\www\DI_Pattern - start\DI_Pattern_Wrong\bin\Debug\net7.0\DI_Pattern_Wrong.runtimeconfig.json
+C:\_repos_\.NET-course-files\examenprep\www\DI_Pattern - start\DI_Pattern_Wrong\bin\Debug\net7.0\DI_Pattern_Wrong.dll
+C:\_repos_\.NET-course-files\examenprep\www\DI_Pattern - start\DI_Pattern_Wrong\bin\Debug\net7.0\DI_Pattern_Wrong.pdb
+C:\_repos_\.NET-course-files\examenprep\www\DI_Pattern - start\DI_Pattern_Wrong\obj\Debug\net7.0\DI_Pattern_Wrong.GeneratedMSBuildEditorConfig.editorconfig
+C:\_repos_\.NET-course-files\examenprep\www\DI_Pattern - start\DI_Pattern_Wrong\obj\Debug\net7.0\DI_Pattern_Wrong.AssemblyInfoInputs.cache
+C:\_repos_\.NET-course-files\examenprep\www\DI_Pattern - start\DI_Pattern_Wrong\obj\Debug\net7.0\DI_Pattern_Wrong.AssemblyInfo.cs
+C:\_repos_\.NET-course-files\examenprep\www\DI_Pattern - start\DI_Pattern_Wrong\obj\Debug\net7.0\DI_Pattern_Wrong.csproj.CoreCompileInputs.cache
+C:\_repos_\.NET-course-files\examenprep\www\DI_Pattern - start\DI_Pattern_Wrong\obj\Debug\net7.0\DI_Pattern_Wrong.sourcelink.json
+C:\_repos_\.NET-course-files\examenprep\www\DI_Pattern - start\DI_Pattern_Wrong\obj\Debug\net7.0\DI_Pattern_Wrong.dll
+C:\_repos_\.NET-course-files\examenprep\www\DI_Pattern - start\DI_Pattern_Wrong\obj\Debug\net7.0\refint\DI_Pattern_Wrong.dll
+C:\_repos_\.NET-course-files\examenprep\www\DI_Pattern - start\DI_Pattern_Wrong\obj\Debug\net7.0\DI_Pattern_Wrong.pdb
+C:\_repos_\.NET-course-files\examenprep\www\DI_Pattern - start\DI_Pattern_Wrong\obj\Debug\net7.0\DI_Pattern_Wrong.genruntimeconfig.cache
+C:\_repos_\.NET-course-files\examenprep\www\DI_Pattern - start\DI_Pattern_Wrong\obj\Debug\net7.0\ref\DI_Pattern_Wrong.dll

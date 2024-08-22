@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\DI_Pattern - start\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3326781C-2B77-4EBB-A7BA-EFDDA78EC54B}|DI_Pattern_Better\\DI_Pattern_Better.csproj|c:\\_repos_\\.net-course-files\\examenprep\\www\\di_pattern - start\\di_pattern_better\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3326781C-2B77-4EBB-A7BA-EFDDA78EC54B}|DI_Pattern_Better\\DI_Pattern_Better.csproj|solutionrelative:di_pattern_better\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3326781C-2B77-4EBB-A7BA-EFDDA78EC54B}|DI_Pattern_Better\\DI_Pattern_Better.csproj|c:\\_repos_\\.net-course-files\\examenprep\\www\\di_pattern - start\\di_pattern_better\\icontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3326781C-2B77-4EBB-A7BA-EFDDA78EC54B}|DI_Pattern_Better\\DI_Pattern_Better.csproj|solutionrelative:di_pattern_better\\icontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9104C73C-0FD5-407B-BC32-4869A863DE8A}|DI_Pattern_Good\\DI_Pattern_Good.csproj|c:\\_repos_\\.net-course-files\\examenprep\\www\\di_pattern - start\\di_pattern_good\\telsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9104C73C-0FD5-407B-BC32-4869A863DE8A}|DI_Pattern_Good\\DI_Pattern_Good.csproj|solutionrelative:di_pattern_good\\telsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9104C73C-0FD5-407B-BC32-4869A863DE8A}|DI_Pattern_Good\\DI_Pattern_Good.csproj|c:\\_repos_\\.net-course-files\\examenprep\\www\\di_pattern - start\\di_pattern_good\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9104C73C-0FD5-407B-BC32-4869A863DE8A}|DI_Pattern_Good\\DI_Pattern_Good.csproj|solutionrelative:di_pattern_good\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9104C73C-0FD5-407B-BC32-4869A863DE8A}|DI_Pattern_Good\\DI_Pattern_Good.csproj|c:\\_repos_\\.net-course-files\\examenprep\\www\\di_pattern - start\\di_pattern_good\\icontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9104C73C-0FD5-407B-BC32-4869A863DE8A}|DI_Pattern_Good\\DI_Pattern_Good.csproj|solutionrelative:di_pattern_good\\icontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\DI_Pattern - start\\DI_Pattern_Better\\Program.cs",
+              "RelativeDocumentMoniker": "DI_Pattern_Better\\Program.cs",
+              "ToolTip": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\DI_Pattern - start\\DI_Pattern_Better\\Program.cs",
+              "RelativeToolTip": "DI_Pattern_Better\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T06:32:26.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IContact.cs",
+              "DocumentMoniker": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\DI_Pattern - start\\DI_Pattern_Better\\IContact.cs",
+              "RelativeDocumentMoniker": "DI_Pattern_Better\\IContact.cs",
+              "ToolTip": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\DI_Pattern - start\\DI_Pattern_Better\\IContact.cs",
+              "RelativeToolTip": "DI_Pattern_Better\\IContact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T06:32:23.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TelSender.cs",
+              "DocumentMoniker": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\DI_Pattern - start\\DI_Pattern_Good\\TelSender.cs",
+              "RelativeDocumentMoniker": "DI_Pattern_Good\\TelSender.cs",
+              "ToolTip": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\DI_Pattern - start\\DI_Pattern_Good\\TelSender.cs",
+              "RelativeToolTip": "DI_Pattern_Good\\TelSender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T06:24:52.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IContact.cs",
+              "DocumentMoniker": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\DI_Pattern - start\\DI_Pattern_Good\\IContact.cs",
+              "RelativeDocumentMoniker": "DI_Pattern_Good\\IContact.cs",
+              "ToolTip": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\DI_Pattern - start\\DI_Pattern_Good\\IContact.cs",
+              "RelativeToolTip": "DI_Pattern_Good\\IContact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T06:23:58.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\DI_Pattern - start\\DI_Pattern_Good\\Order.cs",
+              "RelativeDocumentMoniker": "DI_Pattern_Good\\Order.cs",
+              "ToolTip": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\DI_Pattern - start\\DI_Pattern_Good\\Order.cs",
+              "RelativeToolTip": "DI_Pattern_Good\\Order.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T06:23:46.912Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+﻿@model MotoGP.Models.ViewModels.ListTicketsVM
+
+<form asp-controller="Shop" asp-action="ListTickets" method="get">
+    <select asp-for="SelectedRaceId" asp-items="Model.RacesSelectList">
+        <option value="0">-- select a race --</option>
+    </select>
+    <input type="submit" value="submit" />
+</form>
+
+@if (Model.Tickets.Any())
+{
+    <table>
+        <tr>
+            <th>OrderDate</th>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Address</th>
+            <th>Country</th>
+            <th>Race</th>
+            <th>Number</th>
+        </tr>
+
+        @foreach (var item in Model.Tickets)
+        {
+            var Countries = Model.Countries;
+            var country = Countries.FirstOrDefault(c => c.CountryID == item.CountryID);
+
+            <tr>
+                <td>@(Html.DisplayFor(modelItem => item.OrderDate))</td>
+                <td>@(Html.DisplayFor(modelItem => item.Name))</td>
+                <td>@(Html.DisplayFor(modelItem => item.Email))</td>
+                <td>@(Html.DisplayFor(modelItem => item.Address))</td>
+                <td>@(country.Name)</td>
+                <td>@(Html.DisplayFor(modelItem => item.Race.Name))</td>
+                <td>@(Html.DisplayFor(modelItem => item.Number))</td>
+                <td>
+                    @if (item.Paid)
+                    {
+                        <span>Paid</span>
+                    } else
+                    {
+                        <a asp-controller="Shop" asp-action="EditTicket" asp-route-TicketId="@item.TicketID">Pay</a>
+                    }
+                </td>
+            </tr>
+        }
+    </table>
+}
+else
+{
+    <p>No tickets ordered for this race yet.</p>
+}

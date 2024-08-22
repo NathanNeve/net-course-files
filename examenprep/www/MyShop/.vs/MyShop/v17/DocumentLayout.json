@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Natha\\Desktop\\.NET-course-files\\examenprep\\www\\MyShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB92EA2-BF6A-4A89-9972-A888330DD62F}|MyShop.Infrastructure\\MyShop.Infrastructure.csproj|C:\\Users\\Natha\\Desktop\\.NET-course-files\\examenprep\\www\\MyShop\\myshop.infrastructure\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBB92EA2-BF6A-4A89-9972-A888330DD62F}|MyShop.Infrastructure\\MyShop.Infrastructure.csproj|solutionrelative:myshop.infrastructure\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB92EA2-BF6A-4A89-9972-A888330DD62F}|MyShop.Infrastructure\\MyShop.Infrastructure.csproj|c:\\users\\natha\\desktop\\.net-course-files\\examenprep\\www\\myshop\\myshop.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBB92EA2-BF6A-4A89-9972-A888330DD62F}|MyShop.Infrastructure\\MyShop.Infrastructure.csproj|solutionrelative:myshop.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB92EA2-BF6A-4A89-9972-A888330DD62F}|MyShop.Infrastructure\\MyShop.Infrastructure.csproj|c:\\users\\natha\\desktop\\.net-course-files\\examenprep\\www\\myshop\\myshop.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBB92EA2-BF6A-4A89-9972-A888330DD62F}|MyShop.Infrastructure\\MyShop.Infrastructure.csproj|solutionrelative:myshop.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB92EA2-BF6A-4A89-9972-A888330DD62F}|MyShop.Infrastructure\\MyShop.Infrastructure.csproj|c:\\users\\natha\\desktop\\.net-course-files\\examenprep\\www\\myshop\\myshop.infrastructure\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBB92EA2-BF6A-4A89-9972-A888330DD62F}|MyShop.Infrastructure\\MyShop.Infrastructure.csproj|solutionrelative:myshop.infrastructure\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB92EA2-BF6A-4A89-9972-A888330DD62F}|MyShop.Infrastructure\\MyShop.Infrastructure.csproj|c:\\users\\natha\\desktop\\.net-course-files\\examenprep\\www\\myshop\\myshop.infrastructure\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBB92EA2-BF6A-4A89-9972-A888330DD62F}|MyShop.Infrastructure\\MyShop.Infrastructure.csproj|solutionrelative:myshop.infrastructure\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B51CD0-2595-4F72-9367-F0311C0711E1}|MyShop.API\\MyShop.API.csproj|c:\\users\\natha\\desktop\\.net-course-files\\examenprep\\www\\myshop\\myshop.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B51CD0-2595-4F72-9367-F0311C0711E1}|MyShop.API\\MyShop.API.csproj|solutionrelative:myshop.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B51CD0-2595-4F72-9367-F0311C0711E1}|MyShop.API\\MyShop.API.csproj|c:\\users\\natha\\desktop\\.net-course-files\\examenprep\\www\\myshop\\myshop.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B51CD0-2595-4F72-9367-F0311C0711E1}|MyShop.API\\MyShop.API.csproj|solutionrelative:myshop.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B51CD0-2595-4F72-9367-F0311C0711E1}|MyShop.API\\MyShop.API.csproj|C:\\Users\\Natha\\Desktop\\.NET-course-files\\examenprep\\www\\MyShop\\myshop.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B51CD0-2595-4F72-9367-F0311C0711E1}|MyShop.API\\MyShop.API.csproj|solutionrelative:myshop.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06FD82C9-DAAC-4D00-9D93-1927E5654677}|MyShop.Web\\MyShop.Web.csproj|c:\\users\\natha\\desktop\\.net-course-files\\examenprep\\www\\myshop\\myshop.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06FD82C9-DAAC-4D00-9D93-1927E5654677}|MyShop.Web\\MyShop.Web.csproj|solutionrelative:myshop.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB92EA2-BF6A-4A89-9972-A888330DD62F}|MyShop.Infrastructure\\MyShop.Infrastructure.csproj|c:\\users\\natha\\desktop\\.net-course-files\\examenprep\\www\\myshop\\myshop.infrastructure\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBB92EA2-BF6A-4A89-9972-A888330DD62F}|MyShop.Infrastructure\\MyShop.Infrastructure.csproj|solutionrelative:myshop.infrastructure\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/XPSNN/MyShop/True/SqlTable/dbo.Orderline.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/XPSNN/MyShop/True/SqlTable/dbo.Order.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Natha\\Desktop\\.NET-course-files\\examenprep\\www\\MyShop\\MyShop.API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "MyShop.API\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Natha\\Desktop\\.NET-course-files\\examenprep\\www\\MyShop\\MyShop.API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "MyShop.API\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T08:51:35.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Natha\\Desktop\\.NET-course-files\\examenprep\\www\\MyShop\\MyShop.API\\Program.cs",
+              "RelativeDocumentMoniker": "MyShop.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Natha\\Desktop\\.NET-course-files\\examenprep\\www\\MyShop\\MyShop.API\\Program.cs",
+              "RelativeToolTip": "MyShop.API\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T08:50:28.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Natha\\Desktop\\.NET-course-files\\examenprep\\www\\MyShop\\MyShop.Infrastructure\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "MyShop.Infrastructure\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Natha\\Desktop\\.NET-course-files\\examenprep\\www\\MyShop\\MyShop.Infrastructure\\UnitOfWork.cs",
+              "RelativeToolTip": "MyShop.Infrastructure\\UnitOfWork.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T08:46:23.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Natha\\Desktop\\.NET-course-files\\examenprep\\www\\MyShop\\MyShop.Infrastructure\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "MyShop.Infrastructure\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Natha\\Desktop\\.NET-course-files\\examenprep\\www\\MyShop\\MyShop.Infrastructure\\IUnitOfWork.cs",
+              "RelativeToolTip": "MyShop.Infrastructure\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T08:45:02.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Natha\\Desktop\\.NET-course-files\\examenprep\\www\\MyShop\\MyShop.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "MyShop.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Natha\\Desktop\\.NET-course-files\\examenprep\\www\\MyShop\\MyShop.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "MyShop.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T08:41:20.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Natha\\Desktop\\.NET-course-files\\examenprep\\www\\MyShop\\MyShop.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "MyShop.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Natha\\Desktop\\.NET-course-files\\examenprep\\www\\MyShop\\MyShop.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "MyShop.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T08:31:02.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Natha\\Desktop\\.NET-course-files\\examenprep\\www\\MyShop\\MyShop.Infrastructure\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "MyShop.Infrastructure\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\Natha\\Desktop\\.NET-course-files\\examenprep\\www\\MyShop\\MyShop.Infrastructure\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "MyShop.Infrastructure\\Repositories\\OrderRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:40:23.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\Natha\\Desktop\\.NET-course-files\\examenprep\\www\\MyShop\\MyShop.API\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "MyShop.API\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\Natha\\Desktop\\.NET-course-files\\examenprep\\www\\MyShop\\MyShop.API\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "MyShop.API\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:14:16.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Natha\\Desktop\\.NET-course-files\\examenprep\\www\\MyShop\\MyShop.Web\\Program.cs",
+              "RelativeDocumentMoniker": "MyShop.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\Natha\\Desktop\\.NET-course-files\\examenprep\\www\\MyShop\\MyShop.Web\\Program.cs",
+              "RelativeToolTip": "MyShop.Web\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T08:49:35.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Natha\\Desktop\\.NET-course-files\\examenprep\\www\\MyShop\\MyShop.Infrastructure\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "MyShop.Infrastructure\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Natha\\Desktop\\.NET-course-files\\examenprep\\www\\MyShop\\MyShop.Infrastructure\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "MyShop.Infrastructure\\Repositories\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:40:24.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "dbo.Orderline [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/XPSNN/MyShop/True/SqlTable/dbo.Orderline.sql",
+              "ToolTip": "dbo.Orderline [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-06T15:24:39.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "dbo.Order [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/XPSNN/MyShop/True/SqlTable/dbo.Order.sql",
+              "ToolTip": "dbo.Order [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-06T15:18:15.924Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

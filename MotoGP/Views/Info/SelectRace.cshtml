@@ -1,0 +1,19 @@
+﻿@using MotoGP.Models.ViewModels
+@model SelectListRacesVM;
+
+@{var imagePath = Url.Content($"~/images/races/{Model.SelectedRaceId}.jpg");}
+
+
+<form asp-controller="Info" asp-action="SelectRace" method="get">
+    <select asp-for="SelectedRaceId" asp-items="Model.RacesSelectList">
+        <option value="0">-- select a race --</option>
+    </select>
+    <input type="submit" value="submit"/>
+</form>
+
+
+@if (Model.SelectedRaceId != 0)
+{
+    <img src="@imagePath" alt="Circuit" />
+    <p>@Model.SelectedRace.Description</p>
+}

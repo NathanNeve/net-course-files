@@ -1,0 +1,18 @@
+﻿@model MvcMovie.Models.Rating
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<form asp-action="Edit" method="post">
+
+    <input type="hidden" asp-for="RatingID"/>
+
+    <label asp-for="Code">@Html.DisplayNameFor(model => model.Code)</label>
+    <input asp-for="Code" type="text"/>    
+    <br />
+    <label asp-for="Code">@Html.DisplayNameFor(model => model.Name)</label>
+    <input asp-for="Name" type="text"/>
+
+    <input type="submit" value="Save"/>
+</form>

@@ -1,0 +1,32 @@
+﻿@{
+    Layout = "~/Views/Shared/_NewLayout.cshtml";
+
+    ViewData["Title"] = "Menu";
+    var bannerNr = ViewData["BannerNr."]; 
+
+    var imagePath = Url.Content($"~/images/banners/banner{bannerNr}.jpg");
+}
+
+<img src="@imagePath" alt="banner" />
+
+<div class="container">
+    <div class="box">
+        <a asp-controller="Info" asp-action="ListRaces">
+            <img src="~/images/banners/logo.png" alt="logo" width="300" class="centered" />
+        </a>
+        <a asp-controller="Info" asp-action="ListTeams">
+            <img src="~/images/banners/logo.png" alt="logo" width="300" class="centered" />
+        </a>
+    </div>
+    <div class="box">
+        <a asp-controller="Info" asp-action="ListRiders">
+            <img src="~/images/banners/logo.png" alt="logo" width="300" class="centered" />
+        </a>
+        <a asp-controller="Shop" asp-action="OrderTicket">
+            <img src="~/images/banners/logo.png" alt="logo" width="300" class="centered" />
+        </a>
+    </div>
+</div>
+
+<a asp-controller="">Admin</a>
+<a asp-controller="Shop" asp-action="ListTickets">Tickets</a>

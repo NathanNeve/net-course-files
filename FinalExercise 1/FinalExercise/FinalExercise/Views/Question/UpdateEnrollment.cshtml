@@ -1,0 +1,12 @@
+﻿@model UpdateEnrollmentViewModel
+
+<h1>update enrollment</h1>
+<p>@Model.CourseName</p>
+
+<form asp-action="updateenrollment" method="post">
+   <input type="hidden" asp-for="@Model.Enrollment.CourseId"/>
+   <input type="hidden" asp-for="@Model.Enrollment.EnrollmentId"/>
+   <select asp-for="@Model.Enrollment.StudentId" asp-items="@Model.StudentList"></select>
+
+   <input type="submit" value="Save" />
+</form>

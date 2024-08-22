@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "MsHtGnq0yEOZTo8Yu/zBsNQRUA1bbBF7i3paf8hVv6K06k8g/NOLi6rXBw91i5sY2cOyUCqDr+MYzJ21QGW+cQ==",
+  "success": true,
+  "projectFilePath": "C:\\_repos_\\.NET-course-files\\examenprep\\www\\DI_Pattern - start\\DI_Pattern_Best\\DI_Pattern_Best.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Natha\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.1\\microsoft.extensions.dependencyinjection.6.0.1.nupkg.sha512",
+    "C:\\Users\\Natha\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Natha\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

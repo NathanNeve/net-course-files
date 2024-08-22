@@ -1,0 +1,34 @@
+C:\Data\.NET Development\WT 2023-2024\Examen\Adventures\Adventures.Domain\bin\Debug\net7.0\Adventures.Domain.deps.json
+C:\Data\.NET Development\WT 2023-2024\Examen\Adventures\Adventures.Domain\bin\Debug\net7.0\Adventures.Domain.dll
+C:\Data\.NET Development\WT 2023-2024\Examen\Adventures\Adventures.Domain\bin\Debug\net7.0\Adventures.Domain.pdb
+C:\Data\.NET Development\WT 2023-2024\Examen\Adventures\Adventures.Domain\obj\Debug\net7.0\Adventures.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\.NET Development\WT 2023-2024\Examen\Adventures\Adventures.Domain\obj\Debug\net7.0\Adventures.Domain.AssemblyInfoInputs.cache
+C:\Data\.NET Development\WT 2023-2024\Examen\Adventures\Adventures.Domain\obj\Debug\net7.0\Adventures.Domain.AssemblyInfo.cs
+C:\Data\.NET Development\WT 2023-2024\Examen\Adventures\Adventures.Domain\obj\Debug\net7.0\Adventures.Domain.csproj.CoreCompileInputs.cache
+C:\Data\.NET Development\WT 2023-2024\Examen\Adventures\Adventures.Domain\obj\Debug\net7.0\Adventures.Domain.dll
+C:\Data\.NET Development\WT 2023-2024\Examen\Adventures\Adventures.Domain\obj\Debug\net7.0\refint\Adventures.Domain.dll
+C:\Data\.NET Development\WT 2023-2024\Examen\Adventures\Adventures.Domain\obj\Debug\net7.0\Adventures.Domain.pdb
+C:\Data\.NET Development\WT 2023-2024\Examen\Adventures\Adventures.Domain\obj\Debug\net7.0\ref\Adventures.Domain.dll
+C:\Users\michi\Downloads\Adventures\Adventures.Domain\bin\Debug\net7.0\Adventures.Domain.deps.json
+C:\Users\michi\Downloads\Adventures\Adventures.Domain\bin\Debug\net7.0\Adventures.Domain.dll
+C:\Users\michi\Downloads\Adventures\Adventures.Domain\bin\Debug\net7.0\Adventures.Domain.pdb
+C:\Users\michi\Downloads\Adventures\Adventures.Domain\obj\Debug\net7.0\Adventures.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\michi\Downloads\Adventures\Adventures.Domain\obj\Debug\net7.0\Adventures.Domain.AssemblyInfoInputs.cache
+C:\Users\michi\Downloads\Adventures\Adventures.Domain\obj\Debug\net7.0\Adventures.Domain.AssemblyInfo.cs
+C:\Users\michi\Downloads\Adventures\Adventures.Domain\obj\Debug\net7.0\Adventures.Domain.csproj.CoreCompileInputs.cache
+C:\Users\michi\Downloads\Adventures\Adventures.Domain\obj\Debug\net7.0\Adventures.Domain.dll
+C:\Users\michi\Downloads\Adventures\Adventures.Domain\obj\Debug\net7.0\refint\Adventures.Domain.dll
+C:\Users\michi\Downloads\Adventures\Adventures.Domain\obj\Debug\net7.0\Adventures.Domain.pdb
+C:\Users\michi\Downloads\Adventures\Adventures.Domain\obj\Debug\net7.0\ref\Adventures.Domain.dll
+C:\Users\Natha\Desktop\Adventures\Adventures.Domain\bin\Debug\net7.0\Adventures.Domain.deps.json
+C:\Users\Natha\Desktop\Adventures\Adventures.Domain\bin\Debug\net7.0\Adventures.Domain.dll
+C:\Users\Natha\Desktop\Adventures\Adventures.Domain\bin\Debug\net7.0\Adventures.Domain.pdb
+C:\Users\Natha\Desktop\Adventures\Adventures.Domain\obj\Debug\net7.0\Adventures.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natha\Desktop\Adventures\Adventures.Domain\obj\Debug\net7.0\Adventures.Domain.AssemblyInfoInputs.cache
+C:\Users\Natha\Desktop\Adventures\Adventures.Domain\obj\Debug\net7.0\Adventures.Domain.AssemblyInfo.cs
+C:\Users\Natha\Desktop\Adventures\Adventures.Domain\obj\Debug\net7.0\Adventures.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Natha\Desktop\Adventures\Adventures.Domain\obj\Debug\net7.0\Adventures.Domain.dll
+C:\Users\Natha\Desktop\Adventures\Adventures.Domain\obj\Debug\net7.0\refint\Adventures.Domain.dll
+C:\Users\Natha\Desktop\Adventures\Adventures.Domain\obj\Debug\net7.0\Adventures.Domain.pdb
+C:\Users\Natha\Desktop\Adventures\Adventures.Domain\obj\Debug\net7.0\ref\Adventures.Domain.dll
+C:\Users\Natha\Desktop\Adventures\Adventures.Domain\obj\Debug\net7.0\Adventures.Domain.csproj.AssemblyReference.cache
